@@ -8,3 +8,11 @@
 * Projects Tab
   * Has tasks in the form of "Notes" that you can grab, drag, and drop in different lists, as well as iterate over with your work completed
   * This is a great way for us to also keep track of contributions!  
+
+## What is EDA? 
+Check [this link here](https://www.ibm.com/cloud/learn/exploratory-data-analysis) for some more information on exactly what we mean when we say EDA. We are focused on analyzing the data, summarizing the main features, and use visualizations to show the data. Feature Engineering, Statistical Modeling, Hypothesis Testing, and Dimensionality Reduction. These all fall under our category. We will need to understand the data and how everything correlates in order to effectively accomplish this task. 
+
+## Task & Task List
+Our task is to complete the EDA so that our Modeling team can intake the data and run it into their models and focus on hyperparameter tuning. We will complete this by splitting the work flow as follows:
+
+* TBD Still
