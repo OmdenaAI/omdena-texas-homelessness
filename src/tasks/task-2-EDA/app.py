@@ -10,7 +10,8 @@ def wrangle_with_dt(filepath):
     # Seperates the categorical columns
     categorical_cols = df.select_dtypes('object').columns
     
-    #Creates threshold for how many times you will allow the same value to show up in multiple columns in a row.
+    # Creates threshold for how many unique values in each column.
+    # Datasets are localized and have mostly same info. This should remove things like Email, etc.
     threshold = 50
     
     #Identify high cardinality columns
@@ -18,12 +19,15 @@ def wrangle_with_dt(filepath):
                       if df[col].nunique() > threshold]
     
     # Drop high cardinality columns
-    df.drop(high_card_cols, axis=1, inplace=True)
+    df = df.drop(high_card_cols, axis=1)
     
     # Drop columns with a high number of NaN values
-    #df.dropna(axis = 1, thresh = 300, inplace = True)
+    # 100 was selected pre-data exploration as a way not to drop too many columns yet.
+    df = df.dropna(axis = 1, thresh = 100)
     # Fill NA values with front fill. Replaces with value ahead of it.
-    df.fillna(method='ffill', inplace=True)
+    # Replaces NaN values at start of data with last
+    df = df.fillna(method='ffill')
+    df = df.fillna(method='bfill')
     
     return df
 
@@ -46,11 +50,15 @@ def wrangle_without_dt(filepath):
                       if df[col].nunique() > threshold]
     
     # Drop high cardinality columns
-    df.drop(high_card_cols, axis=1, inplace=True)
+    df = df.drop(high_card_cols, axis=1)
     
     # Drop columns with a high number of NaN values
-    #df.dropna(axis = 1, thresh = 300, inplace = True)
+    # 100 was selected pre-data exploration as a way not to drop too many columns yet.
+    df = df.dropna(axis = 1, thresh = 100)
+    
     # Fill NA values with front fill. Replaces with value ahead of it.
-    df.fillna(method='ffill', inplace=True)
+    # Replaces values at start of data with last 
+    df = df.fillna(method='ffill')
+    df = df.fillna(method='bfill')
     
     return df
