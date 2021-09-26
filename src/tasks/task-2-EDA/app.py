@@ -26,6 +26,7 @@ def wrangle_with_dt(filepath):
     if len(df) > 100:
         df = df.dropna(axis = 1, thresh = 100)
     # Fill NA values with front fill. Replaces with value ahead of it.
+    # Fill NA values at beginning of dataset, if exists using last value in column
     df = df.fillna(method='ffill')
     df = df.fillna(method='bfill')
     
@@ -73,7 +74,7 @@ def wrangle_without_dt(filepath):
     if len(df) > 100:
         df = df.dropna(axis = 1, thresh = 100)
     # Fill NA values with front fill. Replaces with value ahead of it.
-    # Replaces values at start of data with last 
+    # Fill NA values at beginning of dataset, if exists using last value in column
     df = df.fillna(method='ffill')
     df = df.fillna(method='bfill')
     
