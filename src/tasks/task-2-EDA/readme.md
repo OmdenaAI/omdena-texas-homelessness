@@ -32,7 +32,7 @@ Our task is to complete the EDA so that our Modeling team can intake the data an
     * Can we create visualizations that we can show to a consumer or marketing supervisor(basically anyone with little knowledge of DS) and get them to understand the data?
     * Using these visualizations, what insights do we gain from the data? Do we need to manipulate our data anymore than we already have?
   * Normalization vs. Scaling
-    * As we create these visualizations, we need to think about how the data falls. Are we going to experience a skew that can lead to data leakage down the road? How does the data from this set fall on the map as opposed to the other data sets? How is everything intraconnected? These are the key points in this subtask.
+    * As we create these visualizations, we need to think about how the data falls. Are we going to experience a skew that can lead to data leakage down the road? How does the data from this set fall on the map as opposed to the other data sets? Is it well-generalized or is this only specific to a certain circumstance? How is everything intraconnected? These are the key points in this subtask.
 * Feature Engineering and Dimension Reduction
   * Target Identification and Feature Identification. What works with the data, what doesn't?
     * Do we need to create a target? How can we given the data provided?
