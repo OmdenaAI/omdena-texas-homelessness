@@ -47,6 +47,7 @@ Our task is to complete the EDA so that our Modeling team can intake the data an
 * Insights and DataSet Summarizations
   * Just as I posed questions to you guys at the beginning of the project in my EDA notebooks, what insights has the data given you into homelessness? Can we incur any hypothesis? Can this be tested? 
   * When we have the Data all pieced together, what does that look like? What is included in each of these data sets? The more information we can pass along to the next team about our data, the better
+  * We can submit this in the form of a .txt doc or markdown file
 * Statistical Model Testing of Data
   * Ensure data fits into a model and can attain higher than baseline accuracy.
   * Once that is achieved, I would consider that a "win" that we can pass along to Task 3 for deployment modeling
