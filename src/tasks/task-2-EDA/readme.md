@@ -20,10 +20,10 @@ Check [this link here](https://www.ibm.com/cloud/learn/exploratory-data-analysis
 Our task is to complete the EDA so that our Modeling team can intake the data and run it into their models and focus on hyperparameter tuning. We will complete this by splitting the work flow as follows:
 * Data Visualization and Normalizing
 * Feature Engineering and Dimension Reduction
- * Target Identification and Feature Identification. What works with the data, what doesn't?
-  * Do we need to create a target? How can we given the data provided?
-  * If provided a target, are we sure that there isn't any columns in the data associated with the calculation of that target that can lead to Data Leakage?
-  * What features are present in the data? Given these features, can we combine into one that may hold more significance than the two seperately?
+  * Target Identification and Feature Identification. What works with the data, what doesn't?
+    * Do we need to create a target? How can we given the data provided?
+    * If provided a target, are we sure that there isn't any columns in the data associated with the calculation of that target that can lead to Data Leakage?
+    * What features are present in the data? Given these features, can we combine into one that may hold more significance than the two seperately?
   * 
 * Insights and DataSet Summarizations
  * Just as I posed questions to you guys at the beginning of the project in my EDA notebooks, what insights has the data given you into homelessness? Can we incur any hypothesis? Can this be tested? 
