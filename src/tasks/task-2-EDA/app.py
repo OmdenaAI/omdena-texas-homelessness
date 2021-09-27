@@ -26,19 +26,19 @@ def wrangle_with_dt(filepath):
     if len(df) > 100:
         df = df.dropna(axis = 1, thresh = 100)
     # Fill NA values with front fill. Replaces with value ahead of it.
-    # Fill NA values at beginning of dataset, if exists using last value in column
     df = df.fillna(method='ffill')
     df = df.fillna(method='bfill')
     
     # Clear punctuation/special characters from columns using regex
     punct_regex = r"[^0-9a-zA-Z\s]"
     special_char_regex = r'[\$\%\&\@+\"\'\,]'
-    
-    # Lambda apply regex to df column names
+    df.columns = df.columns.str.replace('[?]', '')
+    df.columns = df.columns.str.replace(r'[/,\\]', ' ')
+    # Lambda apply regex to df
     df = df.rename(columns = lambda x: 
-        re.sub(punct_regex, " ", x))
+        re.sub(punct_regex, "", x))
     df = df.rename(columns = lambda x:
-        re.sub(special_char_regex, " ", x))
+        re.sub(special_char_regex, "", x))
     
     # Replace all spaces with an underscore for proper formatting
     df = df.rename(columns = lambda x:
@@ -74,19 +74,20 @@ def wrangle_without_dt(filepath):
     if len(df) > 100:
         df = df.dropna(axis = 1, thresh = 100)
     # Fill NA values with front fill. Replaces with value ahead of it.
-    # Fill NA values at beginning of dataset, if exists using last value in column
+    # Replaces values at start of data with last 
     df = df.fillna(method='ffill')
     df = df.fillna(method='bfill')
     
     # Clear punctuation/special characters from columns using regex
     punct_regex = r"[^0-9a-zA-Z\s]"
-    special_char_regex = r'[\$\%\&\@+\"\'\,]'
-    
-    # Lambda apply regex to df column names
+    #special_char_regex = r'[\$\%\&\@+\"\'\,]'
+    df.columns = df.columns.str.replace('[?]', '')
+    df.columns = df.columns.str.replace(r'[/,\\]', ' ')
+    # Lambda apply regex to df
     df = df.rename(columns = lambda x: 
-        re.sub(punct_regex, " ", x))
-    df = df.rename(columns = lambda x:
-        re.sub(special_char_regex, " ", x))
+        re.sub(punct_regex, "", x))
+    #df = df.rename(columns = lambda x:
+       # re.sub(special_char_regex, "", x))
     
     # Replace all spaces with an underscore for proper formatting
     df = df.rename(columns = lambda x:
