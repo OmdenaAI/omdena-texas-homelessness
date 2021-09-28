@@ -1,6 +1,6 @@
 # Task-2-EDA
 ## Resources
-* app.py is designed for you to be able to do base-line data preprocessing and cleaning on the datasets provided through Omdena. Please let me know if you have any other suggestions on what we should do to add to this file as the collaborative effort on this is key to our success. If we can get this functioning at a high enough level, we can turn this over to the modeling team and the app building team as it will help them in the long run!
+* app.py is designed for you to be able to do base-line data preprocessing and cleaning on the datasets provided through Omdena. Please let me know if you have any other suggestions on what we should do to add to this file as the collaborative effort on this is key to our success.
 
 * Google Doc located [here](https://docs.google.com/spreadsheets/d/1i1irZEHy2YQJJg6vdXX5EH4NEAk1fOJTxx-NLdIO_Zg/edit#gid=0) has an overview of who is doing what on which dataset. Our goal is to get this done by the end of the week. Anyone who signs up will receive messages from me checking in every day or two as we progress.
 
