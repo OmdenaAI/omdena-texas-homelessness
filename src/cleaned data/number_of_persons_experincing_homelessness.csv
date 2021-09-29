@@ -1,0 +1,132 @@
+,Demographic Category,Specific Demographic,# in Safe Haven,Fiscal Year,Fiscal Year Start,Fiscal Year End
+0,Race,American Indian or Alaskan Native,0,2016,0,0
+1,Race,Asian,1,2016,0,0
+2,Race,Black or African American,19,2016,0,0
+3,Race,Native Hawaiian or Other Pacific Islander,1,2016,0,0
+4,Race,White,44,2016,0,0
+5,Race,Unknown,0,2016,0,0
+6,Ethnicity,Hispanic/Latino,4,2016,0,0
+7,Ethnicity,Non-Hispanic/Non-Latino,61,2016,0,0
+8,Ethnicity,Unknown,0,2016,0,0
+9,Gender,Female,3,2016,0,0
+10,Gender,Male,62,2016,0,0
+11,Gender,Trans Female,0,2016,0,0
+12,Gender,Trans Male,0,2016,0,0
+13,Gender,Gender Non-Conforming (i.e. not exclusively male or female),0,2016,0,0
+14,Gender,Unknown,0,2016,0,0
+15,Veteran Status,Veteran,65,2016,0,0
+16,Veteran Status,Not a Veteran,0,2016,0,0
+17,Veteran Status,Unknown,0,2016,0,0
+18,Age Category,Adult 25-61,51,2016,0,0
+19,Age Category,Adult 18-24,0,2016,0,0
+20,Age Category,Elder Adult 62+,14,2016,0,0
+21,Age Category,Children,0,2016,0,0
+22,Age Category,Unknown,0,2016,0,0
+23,Disability Status,Has a Disabling Condition,57,2016,0,0
+24,Disability Status,Does Not Have a Disabling Condition,10,2016,0,0
+25,Disability Status,Unknown,0,2016,0,0
+26,Race,American Indian or Alaskan Native,1,2017,1,1
+27,Race,Asian,1,2017,1,1
+28,Race,Black or African American,14,2017,1,1
+29,Race,Native Hawaiian or Other Pacific Islander,0,2017,1,1
+30,Race,White,50,2017,1,1
+31,Race,Unknown,0,2017,1,1
+32,Ethnicity,Hispanic/Latino,7,2017,1,1
+33,Ethnicity,Non-Hispanic/Non-Latino,59,2017,1,1
+34,Ethnicity,Unknown,0,2017,1,1
+35,Gender,Female,0,2017,1,1
+36,Gender,Male,66,2017,1,1
+37,Gender,Trans Female,0,2017,1,1
+38,Gender,Trans Male,0,2017,1,1
+39,Gender,Gender Non-Conforming (i.e. not exclusively male or female),0,2017,1,1
+40,Gender,Unknown,0,2017,1,1
+41,Veteran Status,Veteran,64,2017,1,1
+42,Veteran Status,Not a Veteran,1,2017,1,1
+43,Veteran Status,Unknown,0,2017,1,1
+44,Age Category,Adult 25-61,51,2017,1,1
+45,Age Category,Adult 18-24,0,2017,1,1
+46,Age Category,Elder Adult 62+,15,2017,1,1
+47,Age Category,Children,0,2017,1,1
+48,Age Category,Unknown,0,2017,1,1
+49,Disability Status,Has a Disabling Condition,59,2017,1,1
+50,Disability Status,Does Not Have a Disabling Condition,6,2017,1,1
+51,Disability Status,Unknown,0,2017,1,1
+52,Race,American Indian or Alaskan Native,3,2018,2,2
+53,Race,Asian,0,2018,2,2
+54,Race,Black or African American,17,2018,2,2
+55,Race,Native Hawaiian or Other Pacific Islander,0,2018,2,2
+56,Race,White,50,2018,2,2
+57,Race,Unknown,1,2018,2,2
+58,Ethnicity,Hispanic/Latino,11,2018,2,2
+59,Ethnicity,Non-Hispanic/Non-Latino,59,2018,2,2
+60,Ethnicity,Unknown,1,2018,2,2
+61,Gender,Female,0,2018,2,2
+62,Gender,Male,69,2018,2,2
+63,Gender,Trans Female,1,2018,2,2
+64,Gender,Trans Male,0,2018,2,2
+65,Gender,Gender Non-Conforming (i.e. not exclusively male or female),1,2018,2,2
+66,Gender,Unknown,0,2018,2,2
+67,Veteran Status,Veteran,69,2018,2,2
+68,Veteran Status,Not a Veteran,0,2018,2,2
+69,Veteran Status,Unknown,1,2018,2,2
+70,Age Category,Adult 25-61,48,2018,2,2
+71,Age Category,Adult 18-24,0,2018,2,2
+72,Age Category,Elder Adult 62+,23,2018,2,2
+73,Age Category,Children,0,2018,2,2
+74,Age Category,Unknown,0,2018,2,2
+75,Disability Status,Has a Disabling Condition,68,2018,2,2
+76,Disability Status,Does Not Have a Disabling Condition,3,2018,2,2
+77,Disability Status,Unknown,0,2018,2,2
+78,Race,American Indian or Alaskan Native,1,2019,3,3
+79,Race,Asian,0,2019,3,3
+80,Race,Black or African American,10,2019,3,3
+81,Race,Native Hawaiian or Other Pacific Islander,0,2019,3,3
+82,Race,Unknown,0,2019,3,3
+83,Race,White,42,2019,3,3
+84,Ethnicity,Hispanic/Latino,9,2019,3,3
+85,Ethnicity,Non-Hispanic/Non-Latino,44,2019,3,3
+86,Ethnicity,Unknown,0,2019,3,3
+87,Gender,Female,1,2019,3,3
+88,Gender,Gender Non-Conforming (i.e. not exclusively male or female) (i.e. not exclusively male or female),0,2019,3,3
+89,Gender,Male,52,2019,3,3
+90,Gender,Trans Female,0,2019,3,3
+91,Gender,Trans Male,0,2019,3,3
+92,Gender,Unknown,0,2019,3,3
+93,Veteran Status,Not a Veteran,0,2019,3,3
+94,Veteran Status,Unknown,0,2019,3,3
+95,Veteran Status,Veteran,53,2019,3,3
+96,Age Category,Adult 25-61,40,2019,3,3
+97,Age Category,Children,0,2019,3,3
+98,Age Category,Elder Adult 62+,12,2019,3,3
+99,Age Category,Adult 18-24,1,2019,3,3
+100,Age Category,Unknown,0,2019,3,3
+101,Disability,Does Not Have a Disabling Condition,3,2019,3,3
+102,Disability,Unknown,0,2019,3,3
+103,Disability,Has a Disabling Condition,50,2019,3,3
+104,Race,AmIndAKNative,1,2020,4,4
+105,Race,Asian,0,2020,4,4
+106,Race,BlackAfAmerican,13,2020,4,4
+107,Race,NativeHIOtherPacific,0,2020,4,4
+108,Race,Two or more races,3,2020,4,4
+109,Race,Unknown,0,2020,4,4
+110,Race,White,40,2020,4,4
+111,Ethnicity,Hispanic/Latino,12,2020,4,4
+112,Ethnicity,Non-Hispanic/Non-Latino,45,2020,4,4
+113,Ethnicity,Unknown,0,2020,4,4
+114,Gender,Female,0,2020,4,4
+115,Gender,Gender non-conforming,0,2020,4,4
+116,Gender,Male,57,2020,4,4
+117,Gender,Trans Female,0,2020,4,4
+118,Gender,Trans Male,0,2020,4,4
+119,Gender,Unknown,0,2020,4,4
+120,Veteran,No,0,2020,4,4
+121,Veteran,Unknown,0,2020,4,4
+122,Veteran,Yes,57,2020,4,4
+123,Age,Adult under 62,42,2020,4,4
+124,Age,Children,0,2020,4,4
+125,Age,Elder Adult,14,2020,4,4
+126,Age,Unknown,0,2020,4,4
+127,Age,Young Adult,1,2020,4,4
+128,Disability,No,0,2020,4,4
+129,Disability,Unknown,0,2020,4,4
+130,Disability,Yes,57,2020,4,4
