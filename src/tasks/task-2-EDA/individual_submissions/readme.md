@@ -1,6 +1,6 @@
 | Your Name | DataSet # | Brief Description of Notebook                        |
 |-----------|-----------|------------------------------------------------------|
-|           |           |                                                      |
+| Alex      |  #1       |          Baseline EDA with attached markdown         |
 |           |           |                                                      |
 |           |           |                                                      |
 |           |           |                                                      |
