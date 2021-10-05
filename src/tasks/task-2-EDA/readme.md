@@ -1,4 +1,10 @@
 # Task-2-EDA
+
+## Where does EDA fit in the Data Science Process
+
+![image](https://user-images.githubusercontent.com/71754779/135961119-28954e0b-a18f-4ff0-824d-13d54ce20e93.png)
+
+
 ## Resources
 * app.py is designed for you to be able to do base-line data preprocessing and cleaning on the datasets provided through Omdena. Please let me know if you have any other suggestions on what we should do to add to this file as the collaborative effort on this is key to our success.
 
