@@ -15,7 +15,7 @@ Given the heavy dependence on the oil sector, the Texan economy (& employment) h
 ![image](https://user-images.githubusercontent.com/49875705/136467154-1e21b062-e094-46ce-bcaf-d4f9dcf1cff5.png)
 
 
-Given that the Texas counties that accounted for the highest unemployment rates in 2020 also featured in the same list for 2007 is evidence of the prevalence of persistent pockets of low employment in the otherwise oil-rich State. 
+the Texas counties that accounted for the highest unemployment rates in 2020 also featured in a similar list in 2007 - further evidence of the prevalence of persistent pockets of low employment in the otherwise oil-rich State. 
 ![image](https://user-images.githubusercontent.com/49875705/136474934-b3b583ca-0877-45c5-b286-7c29d2924d0c.png)
 
 
