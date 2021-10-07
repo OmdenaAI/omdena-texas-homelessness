@@ -1,9 +1,9 @@
 | Your Name | DataSet # | Brief Description of Notebook                        |
 |-----------|-----------|------------------------------------------------------|
-| Mohit      |  #10       |         Visualization, Feature Engineering and added markdown file(insights)        |
-|   Mohit        |    #11       |               Visualization, Feature Engineering and added markdown file(insights)                                       |
-|     Mohit      |    #12      |            Visualization, Feature Engineering and added markdown file(insights)                                          |
-|    Mohit       |    #13       |           Visualization, Feature Engineering and added markdown file(insights)                                           |
+| Mohit Mishra     |  #10       |         Visualization, Feature Engineering and added markdown file(insights)        |
+|   Mohit Mishra     |    #11       |               Visualization, Feature Engineering and added markdown file(insights)                                       |
+|     Mohit Mishra      |    #12      |            Visualization, Feature Engineering and added markdown file(insights)                                          |
+|    Mohit Mishra      |    #13       |           Visualization, Feature Engineering and added markdown file(insights)                                           |
 |           |           |                                                      |
 |           |           |                                                      |
 |           |           |                                                      |
