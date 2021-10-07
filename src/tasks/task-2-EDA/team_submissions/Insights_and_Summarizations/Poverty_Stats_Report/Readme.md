@@ -7,6 +7,8 @@
 
 ![image](https://user-images.githubusercontent.com/71754779/136413528-4b043bf8-1fc3-4b4e-b918-b60693532898.png)
 
+
+The chart below is a snapshot of the wide variance in income levels across counties in Texas.  We view this disparity as a natural variation reflective of the ground reality. 
 ![image](https://user-images.githubusercontent.com/49875705/136463804-73acc525-6ea0-4fb9-9c66-774582431140.png)
 
 ![image](https://user-images.githubusercontent.com/49875705/136463932-fdeb777b-bced-4a81-a000-bc8ca27d87f4.png)
