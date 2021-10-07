@@ -1,7 +1,4 @@
-#ERROR!,Metropolitan Area,Cost,Severely,Cost,Severely,Moderately,Severely,Total,Number of,Moderatel,Severely,Total,Number of,Median,Median,Median Monthly,Median Monthly
-,,Burdened,Burdened,Burdened,Burdened,Burdened,Burdened,Burdened,Renter,Burdened,Burdened,Burdened,Owner,Income of,Income of,Housing Cost,Housing Cost
-,,Renter,Renter,Owner,Owner,Renter,Renter,Renter,Households,Owner,Owner,Owner,Households,Renter,Owner,of Renter,of Owner
-,,Share (%),Share (%),Share (%),Share (%),Households,Households,Households,,Households,Households,Households,,Households,Households,Households,Households
+#ERROR!,Metropolitan Area,Cost Burdened Renter Share (%),Severely Burdened Renter Share (%),Cost Burdened Owner Share (%),Severely Burdened Owner Share (%),Moderately Burdened Renter Households,Severely Burdened Renter Households,Total Burdened Renter Households,Number of Renter Households,Moderately Burdened Owner Households,Severely Burdened Owner Households,Total Burdened Owner Households,Number of Owner Households,Median Income of Renter Households,Median Income of Owner Households,Median Monthly Housing Cost of Renter Households,Median Monthly Housing Cost of Owner Households
 1,"New York-Newark-Jersey City, NY-NJ-PA",52.5,29.9,36.1,17.1,"792,800","1,044,600","1,837,500","3,498,000","690,200","620,900","1,311,100","3,627,700","$43,500 ","$100,000 ","$1,300 ","$2,020 "
 2,"Los Angeles-Long Beach-Anaheim, CA",57.1,31,35.7,16.7,"586,500","695,500","1,282,000","2,244,800","393,600","344,900","738,500","2,070,900","$44,000 ","$91,950 ","$1,354 ","$1,883 "
 3,"Chicago-Naperville-Elgin, IL-IN-WI",50.3,27.9,27.8,12.1,"284,900","355,700","640,700","1,273,800","345,900","265,000","610,900","2,197,000","$37,000 ","$83,000 ","$1,010 ","$1,415 "
