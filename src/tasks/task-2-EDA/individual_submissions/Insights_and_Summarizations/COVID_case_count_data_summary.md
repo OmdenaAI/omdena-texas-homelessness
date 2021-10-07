@@ -14,5 +14,4 @@ I wanted to learn about how confirmed cases factors into fatalites and how proba
 I learned about how fatalities and confirmed cases follow a linear relationship of positive correlation. The more people who are sick, the more likely people are to die. When we have lower infection rates, we see less lives lost.
 
 # How have the visualizations given you a better insight into the data?
-![img]('C:\Users\Alex Lucchesi\OneDrive\Pictures\Omdena Project Photos\COVID case count confirmed_fatalities.png')
 Visualizations have given us the ability to see the relationship between the data and how it follows a linear fashion.
