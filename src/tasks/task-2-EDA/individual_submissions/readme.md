@@ -1,9 +1,9 @@
 | Your Name | DataSet # | Brief Description of Notebook                        |
 |-----------|-----------|------------------------------------------------------|
 | Mohit      |  #1       |          Baseline EDA with attached markdown         |
-|           |           |                                                      |
-|           |           |                                                      |
-|           |           |                                                      |
+|   Mohit        |           |                                                      |
+|     Mohit      |           |                                                      |
+|    Mohit       |           |                                                      |
 |           |           |                                                      |
 |           |           |                                                      |
 |           |           |                                                      |
