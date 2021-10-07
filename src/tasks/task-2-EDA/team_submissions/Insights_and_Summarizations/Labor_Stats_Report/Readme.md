@@ -10,6 +10,7 @@
 ![image](https://user-images.githubusercontent.com/71754779/136440592-eda72a92-86d7-4ced-a54e-2b112b41f218.png)
 
 
-![image](https://user-images.githubusercontent.com/49875705/136467021-2f9daf8a-8a0e-40a6-b35c-78fc96f2c1ff.png)
+Given the heavy dependence on the oil sector, the Texan economy (& employment) has moved broadly in line with the general economic trends. A sharp increase in the unemployment rate following the GFC in 2008 was followed by an improving trend through of the last decade.  This scenario was halted by the 2020 Covid-driven shutdown leading to heavy job losses followed by a recovery trend that emerged from late 2020 onwards. 
+![image](https://user-images.githubusercontent.com/49875705/136467154-1e21b062-e094-46ce-bcaf-d4f9dcf1cff5.png)
 
 
