@@ -1,8 +1,7 @@
 | Team #    | DataSet # | Brief Description of Notebook                        |
 |-----------|-----------|------------------------------------------------------|
-| 3           #22           Pandas Profiling report + visualizations created by|
-|           |           |  team members along with summary findings            |
-|           |           |                                                      |
+| #3 (Mohit,Indu,Ankit)         |  #22      |     Pandas Profiling report + visualizations created by team members along with summary findings |
+| #3 (Mohit,Indu,Ankit)         |    #23       |      Profiling Report with Data Insights using Visualization                                                |
 |           |           |                                                      |
 |           |           |                                                      |
 |           |           |                                                      |
