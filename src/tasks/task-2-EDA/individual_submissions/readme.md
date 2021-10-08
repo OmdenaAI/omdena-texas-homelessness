@@ -9,8 +9,8 @@
 |    Alex Lucchesi       |   #8        |     Insights, Feature Engineering, Visualizations, Statistical Modeling                                                 |
 |    Alex Lucchesi       |    #3       |              Insights, Feature Engineering, Visualizations                                        |
 |  Shubham Raheja |        #9      |                     Visualization, Feature Engineering, Conclusion                                  |
-|           |           |                                                      |
-|           |           |                                                      |
+|Muhammad Wasiq|        #8   |             Data Insights, Data Visualizations                                         |
+| Muhammad Wasiq          |       #3    |     Data Cleaning, Data Insights, Data Visualizations                                                 |
 |           |           |                                                      |
 |           |           |                                                      |
 |           |           |                                                      |
