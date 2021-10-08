@@ -38,4 +38,6 @@ Percentage variation in Employment Rate
 ![image](https://user-images.githubusercontent.com/83202597/136490843-f383037f-03c2-4be9-ba7a-a9bf30cc249c.png)
 
 Percentage variation in Civilian Labour Force
+![image](https://user-images.githubusercontent.com/83202597/136491248-cc0ebaa4-9877-4bbe-a033-7b51cd318840.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
