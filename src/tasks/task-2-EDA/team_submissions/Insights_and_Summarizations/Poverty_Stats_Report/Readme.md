@@ -24,7 +24,9 @@ The chart below is a snapshot of the wide variance in income levels across count
 
 ![image](https://user-images.githubusercontent.com/49875705/136470308-c8772ed6-7f30-4121-9db2-03da893c6be7.png)
 
+
 Total Personal Income by county
+
 ![newplot (1)](https://user-images.githubusercontent.com/83202597/136489790-8444f9d3-38e0-49dd-86ae-7fc09cec1253.png)
 
 
