@@ -40,4 +40,9 @@ Percentage variation in Employment Rate
 Percentage variation in Civilian Labour Force
 ![image](https://user-images.githubusercontent.com/83202597/136491248-cc0ebaa4-9877-4bbe-a033-7b51cd318840.png)
 
+Feature importance by XGBoost
+
+![image](https://user-images.githubusercontent.com/83202597/136504428-0108d172-62ad-4e52-8115-ddf2edd7dac3.png)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
