@@ -1,9 +1,15 @@
 # Insights
 
+* From this heatmap, we concluded that all the columns are moderately correlated with each other leaving one and two. like `% of Population in Poverty` and `% of Poverty under age 18 in Poverty` are strongly positively correlated with each other.
+
 ![image](https://user-images.githubusercontent.com/71754779/136413193-0ea48247-aca0-4e06-b5f9-81674ddba4ac.png)
 
 
+* We can see like `Median Household Income` and `% of Population in Poverty` or `% of Population under age 18 in Poverty` are negatively related to each other as if we there will be increase in one then it will decrease the other one.  
+
 ![image](https://user-images.githubusercontent.com/71754779/136413467-4f656d51-d3ab-4b25-b3f6-8df6b450520a.png)
+
+* Through this box plot we can check if our dataset do contains any outlier or not and easily we can conclude we don't have any and we had also confirmed this with `Z-Score`.
 
 ![image](https://user-images.githubusercontent.com/71754779/136413528-4b043bf8-1fc3-4b4e-b918-b60693532898.png)
 
