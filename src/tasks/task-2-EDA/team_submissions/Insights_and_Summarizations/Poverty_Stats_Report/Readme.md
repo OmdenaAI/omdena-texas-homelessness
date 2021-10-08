@@ -40,7 +40,8 @@ Percentage of population under poverty variation with per capita income
 ![image](https://user-images.githubusercontent.com/83202597/136489048-414c02b4-a3cd-48cd-b689-c0f0b6674fe1.png)
 
 correlation heatmap with some extra features
-![image](https://user-images.githubusercontent.com/83202597/136489141-e8459d23-3a38-482a-b89b-c57d1f93456e.png)
+![image](https://user-images.githubusercontent.com/83202597/136499978-c700a6e6-73bb-4890-88a7-140842a9e8f1.png)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
