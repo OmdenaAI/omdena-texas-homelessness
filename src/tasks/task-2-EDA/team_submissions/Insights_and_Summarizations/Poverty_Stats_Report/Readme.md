@@ -15,10 +15,11 @@
 
 
 
+
 The chart below is a snapshot of the wide variance in income levels across counties in Texas.  We view this disparity as a natural variation reflective of the ground reality (i.e. not outliers). 
 ![image](https://user-images.githubusercontent.com/49875705/136463804-73acc525-6ea0-4fb9-9c66-774582431140.png)
 
-
+The next three visual respresentations of different income metrics (per capita, median household, average annual pay) mirror the concentration of wealth in and around the cities as well as the oil basins of Texas. 
 ![image](https://user-images.githubusercontent.com/49875705/136463932-fdeb777b-bced-4a81-a000-bc8ca27d87f4.png)
 
 ![image](https://user-images.githubusercontent.com/49875705/136464208-5e3ff97b-a566-4ccc-87d0-b47864155823.png)
@@ -27,6 +28,7 @@ The chart below is a snapshot of the wide variance in income levels across count
 
 Higher poverty levels can be seen in the areas close to the international border...
 ![image](https://user-images.githubusercontent.com/49875705/136468758-9a6059de-afa6-4242-ab5a-7a3edb15f855.png)
+
 
 
 Total Personal Income by county
