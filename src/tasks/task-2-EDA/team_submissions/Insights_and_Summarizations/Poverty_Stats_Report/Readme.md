@@ -24,6 +24,23 @@ The chart below is a snapshot of the wide variance in income levels across count
 
 ![image](https://user-images.githubusercontent.com/49875705/136470308-c8772ed6-7f30-4121-9db2-03da893c6be7.png)
 
+Total Personal Income by county
+![newplot (1)](https://user-images.githubusercontent.com/83202597/136489790-8444f9d3-38e0-49dd-86ae-7fc09cec1253.png)
+
+
+Median  Household income distribution
+![image](https://user-images.githubusercontent.com/83202597/136488846-2414bfde-60ce-4e29-8333-59df6986b132.png)
+
+Per capita Income distribution
+![image](https://user-images.githubusercontent.com/83202597/136488985-142aa3fa-ed6a-4313-b0d0-ef0bb8defaa8.png)
+
+Percentage of population under poverty variation with per capita income
+![image](https://user-images.githubusercontent.com/83202597/136489048-414c02b4-a3cd-48cd-b689-c0f0b6674fe1.png)
+
+correlation heatmap with some extra features
+![image](https://user-images.githubusercontent.com/83202597/136489141-e8459d23-3a38-482a-b89b-c57d1f93456e.png)
+
+
 
 
 
