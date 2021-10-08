@@ -8,7 +8,7 @@
 |    Alex Lucchesi       |     #2      |                   Insights, Feature Engineering, Visualizations                                   |
 |    Alex Lucchesi       |   #8        |     Insights, Feature Engineering, Visualizations, Statistical Modeling                                                 |
 |    Alex Lucchesi       |    #3       |              Insights, Feature Engineering, Visualizations                                        |
-|           |           |                                                      |
+|  Shubham Raheja |        #9      |                     Visualization, Feature Engineering, Conclusion                                  |
 |           |           |                                                      |
 |           |           |                                                      |
 |           |           |                                                      |
