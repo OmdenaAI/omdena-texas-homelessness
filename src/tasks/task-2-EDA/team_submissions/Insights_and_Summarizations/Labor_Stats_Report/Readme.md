@@ -1,5 +1,6 @@
 # Insights
 
+* Through this image we can easily check that we are having lot of highly correlated columns i.e. `Employment`, `Civil Labor Force`, and `Unemployment`.
 
 ![image](https://user-images.githubusercontent.com/71754779/136440464-99175a64-6fd4-4b25-805b-0cb7d6641977.png)
 
