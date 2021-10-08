@@ -19,3 +19,23 @@ The Texas counties that accounted for the highest unemployment rates in 2020 als
 ![image](https://user-images.githubusercontent.com/49875705/136474934-b3b583ca-0877-45c5-b286-7c29d2924d0c.png)
 
 
+unemployment variation over years
+![image](https://user-images.githubusercontent.com/83202597/136490431-b63fa069-dc01-4df7-91d4-0990224515f8.png)
+![image](https://user-images.githubusercontent.com/83202597/136490747-21358e53-f656-4f6a-91df-00bc7c289e36.png)
+
+
+Civilian Labour Force variation over years
+![image](https://user-images.githubusercontent.com/83202597/136490507-8faac3cd-440e-4254-bd29-66f850465a08.png)
+
+Employment variation over years
+![image](https://user-images.githubusercontent.com/83202597/136490552-def5aadd-968b-4e22-b1b5-247033903f19.png)
+![image](https://user-images.githubusercontent.com/83202597/136490582-0753e7d1-64b9-4f99-bb31-d4251bd159ca.png)
+
+Percentage variation in unemployment Rate
+![image](https://user-images.githubusercontent.com/83202597/136490664-311913f2-3278-4407-abce-29a6f5f45553.png)
+
+Percentage variation in Employment Rate
+![image](https://user-images.githubusercontent.com/83202597/136490843-f383037f-03c2-4be9-ba7a-a9bf30cc249c.png)
+
+Percentage variation in Civilian Labour Force
+
