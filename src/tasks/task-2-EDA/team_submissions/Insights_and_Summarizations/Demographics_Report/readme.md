@@ -10,4 +10,7 @@
 
 ![newplot (5)](https://user-images.githubusercontent.com/83202597/136817647-98c822be-2f22-4bc8-b716-0e3a390ad995.png)
 
+![newplot (6)](https://user-images.githubusercontent.com/83202597/136817893-76b85a72-7c0b-4a91-9da9-3925ae857394.png)
+
+![newplot (7)](https://user-images.githubusercontent.com/83202597/136817931-2cf5379d-00e8-4b7a-a410-2eb968d14618.png)
 
