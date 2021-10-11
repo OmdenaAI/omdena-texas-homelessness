@@ -14,3 +14,6 @@
 
 ![newplot (7)](https://user-images.githubusercontent.com/83202597/136817931-2cf5379d-00e8-4b7a-a410-2eb968d14618.png)
 
+![newplot (8)](https://user-images.githubusercontent.com/83202597/136818150-aa309b99-978c-4c6f-9084-96a896658b0b.png)
+
+![newplot (9)](https://user-images.githubusercontent.com/83202597/136818188-ec97687e-52b9-4bd5-99c6-beb23c48576f.png)
