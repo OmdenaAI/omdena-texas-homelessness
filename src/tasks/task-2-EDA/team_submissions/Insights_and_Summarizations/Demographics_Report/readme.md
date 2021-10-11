@@ -7,6 +7,8 @@
 
 ![newplot (3)](https://user-images.githubusercontent.com/83202597/136817161-f0ce00ad-3079-4164-b872-b70b442f6b1c.png)
 
+**now let's see the pattern in majorities vs minorities over years**
+
 ![newplot (4)](https://user-images.githubusercontent.com/83202597/136817453-987043c9-2861-4d3c-8bef-cb0ee012dde4.png)
 
 ![newplot (5)](https://user-images.githubusercontent.com/83202597/136817647-98c822be-2f22-4bc8-b716-0e3a390ad995.png)
@@ -18,3 +20,8 @@
 ![newplot (8)](https://user-images.githubusercontent.com/83202597/136818150-aa309b99-978c-4c6f-9084-96a896658b0b.png)
 
 ![newplot (9)](https://user-images.githubusercontent.com/83202597/136818188-ec97687e-52b9-4bd5-99c6-beb23c48576f.png)
+
+![newplot (10)](https://user-images.githubusercontent.com/83202597/136818618-ed0d1fb1-fec0-49c7-b87d-3dac3267c0a8.png)
+
+![newplot (11)](https://user-images.githubusercontent.com/83202597/136818633-6e77704d-1c63-46bd-a3f8-6bce8bce74c4.png)
+
