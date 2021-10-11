@@ -37,3 +37,17 @@
 
 ![newplot (16)](https://user-images.githubusercontent.com/83202597/136819171-503a6bc3-7e5a-4ab5-878d-acab48bf2e33.png)
 
+**AGE Distribution in TOP 5 county**
+
+![newplot (17)](https://user-images.githubusercontent.com/83202597/136819936-a4a0235f-b60e-48a7-a26a-53f2352ae11d.png)
+
+![newplot (18)](https://user-images.githubusercontent.com/83202597/136819972-59f130b2-352e-42dc-83a0-367a8ddd0639.png)
+
+![newplot (19)](https://user-images.githubusercontent.com/83202597/136820005-e78f49e7-4683-4361-96bc-789f3536b933.png)
+
+![newplot (20)](https://user-images.githubusercontent.com/83202597/136820032-31eb7f21-cb15-4632-b815-58d2d6f4bb75.png)
+
+![newplot (21)](https://user-images.githubusercontent.com/83202597/136820050-8ae9cf0e-ce8d-4ea6-b38a-3ea97a828d2b.png)
+
+
+
