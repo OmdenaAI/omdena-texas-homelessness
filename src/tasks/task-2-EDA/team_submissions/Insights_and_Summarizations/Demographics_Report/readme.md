@@ -25,3 +25,15 @@
 
 ![newplot (11)](https://user-images.githubusercontent.com/83202597/136818633-6e77704d-1c63-46bd-a3f8-6bce8bce74c4.png)
 
+**RACE Distribution in TOP 5 county**
+
+![newplot (12)](https://user-images.githubusercontent.com/83202597/136819252-6aad20fe-a371-408b-83bb-a7062c3508c3.png)
+
+![newplot (13)](https://user-images.githubusercontent.com/83202597/136819288-418e837f-1bf7-4d19-9f9f-aba12a33c82e.png)
+
+![newplot (14)](https://user-images.githubusercontent.com/83202597/136819312-4c01dda5-6cc7-4569-be40-78ea232e0da6.png)
+
+![newplot (15)](https://user-images.githubusercontent.com/83202597/136819343-3e409776-4f88-4130-807a-ca9d5b6740bf.png)
+
+![newplot (16)](https://user-images.githubusercontent.com/83202597/136819171-503a6bc3-7e5a-4ab5-878d-acab48bf2e33.png)
+
