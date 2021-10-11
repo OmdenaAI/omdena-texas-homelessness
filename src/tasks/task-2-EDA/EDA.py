@@ -82,6 +82,11 @@ def categorical_eda(df, hue=None):
         fig = sns.catplot(x=col, kind="count", data=df, hue=hue)
         fig.set_xticklabels(rotation=90)
         plt.show()
+
+def profiling_report(df):
+    !pip install pandas-profiling
+    from pandas_profiling import ProfileReport
+    ProfileReport(df)
     
 
 def eda(df):
@@ -121,3 +126,6 @@ def eda(df):
         
     # Plot time series plot of numeric data
     time_series_plot(df)
+
+    #helps to make a full report
+    profiling_report(df)
