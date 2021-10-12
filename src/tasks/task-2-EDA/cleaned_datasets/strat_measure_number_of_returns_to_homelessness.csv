@@ -1,0 +1,491 @@
+,demographic_category,specific_demographic,fiscal_year,so_es_th_sh_ph,numerator,denominator,rate,fiscal_year_start,fiscal_year_end
+0,Race,American Indian or Alaskan Native,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+1,Race,Asian,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+2,Race,Black or African American,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+3,Race,Native Hawaiian or Other Pacific Islander,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+4,Race,White,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+5,Race,Client Doesn't Know or Client Refused,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+6,Ethnicity,Hispanic/Latino,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+7,Ethnicity,Non-Hispanic/Non-Latino,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+8,Ethnicity,Client Doesn't Know or Client Refused,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+9,Gender,Female,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+10,Gender,Male,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+11,Gender,Trans Female,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+12,Gender,Trans Male,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+13,Gender,Gender Non-Conforming,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+14,Gender,Client Doesn't Know or Client Refused,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+15,Veteran Status,Veteran,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+16,Veteran Status,Not a Veteran,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+17,Veteran Status,Client Doesn't Know or Client Refused,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+18,Age Category,Adult 25-61,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+19,Age Category,Adult 18-24,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+20,Age Category,Elder Adult 62+,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+21,Age Category,Children,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+22,Age Category,Client Doesn't Know or Client Refused,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+23,Disability Status,Has a Disabling Condition,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+24,Disability Status,Does Not Have a Disabling Condition,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+25,Disability Status,Client Doesn't Know or Client Refused,2017,SO,0,0,0.0,2016-10-01,2017-09-30
+26,Race,American Indian or Alaskan Native,2017,ES,1,3,0.33,2016-10-01,2017-09-30
+27,Race,Asian,2017,ES,0,11,0.0,2016-10-01,2017-09-30
+28,Race,Black or African American,2017,ES,57,202,0.28,2016-10-01,2017-09-30
+29,Race,Native Hawaiian or Other Pacific Islander,2017,ES,0,1,0.0,2016-10-01,2017-09-30
+30,Race,White,2017,ES,56,237,0.24,2016-10-01,2017-09-30
+31,Race,Client Doesn't Know or Client Refused,2017,ES,0,0,0.0,2016-10-01,2017-09-30
+32,Ethnicity,Hispanic/Latino,2017,ES,21,166,0.13,2016-10-01,2017-09-30
+33,Ethnicity,Non-Hispanic/Non-Latino,2017,ES,93,288,0.32,2016-10-01,2017-09-30
+34,Ethnicity,Client Doesn't Know or Client Refused,2017,ES,0,0,0.0,2016-10-01,2017-09-30
+35,Gender,Female,2017,ES,63,268,0.24,2016-10-01,2017-09-30
+36,Gender,Male,2017,ES,50,184,0.27,2016-10-01,2017-09-30
+37,Gender,Trans Female,2017,ES,1,2,0.5,2016-10-01,2017-09-30
+38,Gender,Trans Male,2017,ES,0,0,0.0,2016-10-01,2017-09-30
+39,Gender,Gender Non-Conforming,2017,ES,0,0,0.0,2016-10-01,2017-09-30
+40,Gender,Client Doesn't Know or Client Refused,2017,ES,0,0,0.0,2016-10-01,2017-09-30
+41,Veteran Status,Veteran,2017,ES,16,34,0.47,2016-10-01,2017-09-30
+42,Veteran Status,Not a Veteran,2017,ES,98,419,0.23,2016-10-01,2017-09-30
+43,Veteran Status,Client Doesn't Know or Client Refused,2017,ES,0,0,0.0,2016-10-01,2017-09-30
+44,Age Category,Adult 25-61,2017,ES,82,260,0.32,2016-10-01,2017-09-30
+45,Age Category,Adult 18-24,2017,ES,4,22,0.18,2016-10-01,2017-09-30
+46,Age Category,Elder Adult 62+,2017,ES,6,14,0.43,2016-10-01,2017-09-30
+47,Age Category,Children,2017,ES,22,158,0.14,2016-10-01,2017-09-30
+48,Age Category,Client Doesn't Know or Client Refused,2017,ES,0,0,0.0,2016-10-01,2017-09-30
+49,Disability Status,Has a Disabling Condition,2017,ES,53,133,0.4,2016-10-01,2017-09-30
+50,Disability Status,Does Not Have a Disabling Condition,2017,ES,61,309,0.2,2016-10-01,2017-09-30
+51,Disability Status,Client Doesn't Know or Client Refused,2017,ES,0,12,0.0,2016-10-01,2017-09-30
+52,Race,American Indian or Alaskan Native,2017,TH,0,1,0.0,2016-10-01,2017-09-30
+53,Race,Asian,2017,TH,0,0,0.0,2016-10-01,2017-09-30
+54,Race,Black or African American,2017,TH,3,59,0.05,2016-10-01,2017-09-30
+55,Race,Native Hawaiian or Other Pacific Islander,2017,TH,0,0,0.0,2016-10-01,2017-09-30
+56,Race,White,2017,TH,2,64,0.03,2016-10-01,2017-09-30
+57,Race,Client Doesn't Know or Client Refused,2017,TH,0,1,0.0,2016-10-01,2017-09-30
+58,Ethnicity,Hispanic/Latino,2017,TH,0,58,0.0,2016-10-01,2017-09-30
+59,Ethnicity,Non-Hispanic/Non-Latino,2017,TH,5,66,0.08,2016-10-01,2017-09-30
+60,Ethnicity,Client Doesn't Know or Client Refused,2017,TH,0,1,0.0,2016-10-01,2017-09-30
+61,Gender,Female,2017,TH,2,72,0.03,2016-10-01,2017-09-30
+62,Gender,Male,2017,TH,3,53,0.06,2016-10-01,2017-09-30
+63,Gender,Trans Female,2017,TH,0,0,0.0,2016-10-01,2017-09-30
+64,Gender,Trans Male,2017,TH,0,0,0.0,2016-10-01,2017-09-30
+65,Gender,Gender Non-Conforming,2017,TH,0,0,0.0,2016-10-01,2017-09-30
+66,Gender,Client Doesn't Know or Client Refused,2017,TH,0,0,0.0,2016-10-01,2017-09-30
+67,Veteran Status,Veteran,2017,TH,0,8,0.0,2016-10-01,2017-09-30
+68,Veteran Status,Not a Veteran,2017,TH,5,117,0.04,2016-10-01,2017-09-30
+69,Veteran Status,Client Doesn't Know or Client Refused,2017,TH,0,0,0.0,2016-10-01,2017-09-30
+70,Age Category,Adult 25-61,2017,TH,1,34,0.03,2016-10-01,2017-09-30
+71,Age Category,Adult 18-24,2017,TH,2,27,0.07,2016-10-01,2017-09-30
+72,Age Category,Elder Adult 62+,2017,TH,0,0,0.0,2016-10-01,2017-09-30
+73,Age Category,Children,2017,TH,2,64,0.03,2016-10-01,2017-09-30
+74,Age Category,Client Doesn't Know or Client Refused,2017,TH,0,0,0.0,2016-10-01,2017-09-30
+75,Disability Status,Has a Disabling Condition,2017,TH,0,20,0.0,2016-10-01,2017-09-30
+76,Disability Status,Does Not Have a Disabling Condition,2017,TH,5,104,0.05,2016-10-01,2017-09-30
+77,Disability Status,Client Doesn't Know or Client Refused,2017,TH,0,0,0.0,2016-10-01,2017-09-30
+78,Race,American Indian or Alaskan Native,2017,SH,0,3,0.0,2016-10-01,2017-09-30
+79,Race,Asian,2017,SH,0,0,0.0,2016-10-01,2017-09-30
+80,Race,Black or African American,2017,SH,2,11,0.18,2016-10-01,2017-09-30
+81,Race,Native Hawaiian or Other Pacific Islander,2017,SH,0,0,0.0,2016-10-01,2017-09-30
+82,Race,White,2017,SH,25,18,1.39,2016-10-01,2017-09-30
+83,Race,Client Doesn't Know or Client Refused,2017,SH,0,1,0.0,2016-10-01,2017-09-30
+84,Ethnicity,Hispanic/Latino,2017,SH,0,2,0.0,2016-10-01,2017-09-30
+85,Ethnicity,Non-Hispanic/Non-Latino,2017,SH,7,30,0.23,2016-10-01,2017-09-30
+86,Ethnicity,Client Doesn't Know or Client Refused,2017,SH,0,1,0.0,2016-10-01,2017-09-30
+87,Gender,Female,2017,SH,1,6,0.17,2016-10-01,2017-09-30
+88,Gender,Male,2017,SH,6,27,0.22,2016-10-01,2017-09-30
+89,Gender,Trans Female,2017,SH,0,0,0.0,2016-10-01,2017-09-30
+90,Gender,Trans Male,2017,SH,0,0,0.0,2016-10-01,2017-09-30
+91,Gender,Gender Non-Conforming,2017,SH,0,0,0.0,2016-10-01,2017-09-30
+92,Gender,Client Doesn't Know or Client Refused,2017,SH,0,0,0.0,2016-10-01,2017-09-30
+93,Veteran Status,Veteran,2017,SH,6,31,0.19,2016-10-01,2017-09-30
+94,Veteran Status,Not a Veteran,2017,SH,1,1,1.0,2016-10-01,2017-09-30
+95,Veteran Status,Client Doesn't Know or Client Refused,2017,SH,0,0,0.0,2016-10-01,2017-09-30
+96,Age Category,Adult 25-61,2017,SH,7,28,0.25,2016-10-01,2017-09-30
+97,Age Category,Adult 18-24,2017,SH,0,0,0.0,2016-10-01,2017-09-30
+98,Age Category,Elder Adult 62+,2017,SH,0,5,0.0,2016-10-01,2017-09-30
+99,Age Category,Children,2017,SH,0,0,0.0,2016-10-01,2017-09-30
+100,Age Category,Client Doesn't Know or Client Refused,2017,SH,0,0,0.0,2016-10-01,2017-09-30
+101,Disability Status,Has a Disabling Condition,2017,SH,6,31,0.19,2016-10-01,2017-09-30
+102,Disability Status,Does Not Have a Disabling Condition,2017,SH,1,2,0.5,2016-10-01,2017-09-30
+103,Disability Status,Client Doesn't Know or Client Refused,2017,SH,0,0,0.0,2016-10-01,2017-09-30
+104,Race,American Indian or Alaskan Native,2017,PH,0,1,0.0,2016-10-01,2017-09-30
+105,Race,Asian,2017,PH,0,4,0.0,2016-10-01,2017-09-30
+106,Race,Black or African American,2017,PH,61,396,0.15,2016-10-01,2017-09-30
+107,Race,Native Hawaiian or Other Pacific Islander,2017,PH,0,10,0.0,2016-10-01,2017-09-30
+108,Race,White,2017,PH,46,329,0.14,2016-10-01,2017-09-30
+109,Race,Client Doesn't Know or Client Refused,2017,PH,1,15,0.07,2016-10-01,2017-09-30
+110,Ethnicity,Hispanic/Latino,2017,PH,22,198,0.11,2016-10-01,2017-09-30
+111,Ethnicity,Non-Hispanic/Non-Latino,2017,PH,86,551,0.16,2016-10-01,2017-09-30
+112,Ethnicity,Client Doesn't Know or Client Refused,2017,PH,1,6,0.17,2016-10-01,2017-09-30
+113,Gender,Female,2017,PH,36,339,0.11,2016-10-01,2017-09-30
+114,Gender,Male,2017,PH,73,415,0.18,2016-10-01,2017-09-30
+115,Gender,Trans Female,2017,PH,0,1,0.0,2016-10-01,2017-09-30
+116,Gender,Trans Male,2017,PH,0,0,0.0,2016-10-01,2017-09-30
+117,Gender,Gender Non-Conforming,2017,PH,0,0,0.0,2016-10-01,2017-09-30
+118,Gender,Client Doesn't Know or Client Refused,2017,PH,0,0,0.0,2016-10-01,2017-09-30
+119,Veteran Status,Veteran,2017,PH,25,103,0.24,2016-10-01,2017-09-30
+120,Veteran Status,Not a Veteran,2017,PH,84,651,0.13,2016-10-01,2017-09-30
+121,Veteran Status,Client Doesn't Know or Client Refused,2017,PH,0,1,0.0,2016-10-01,2017-09-30
+122,Age Category,Adult 25-61,2017,PH,75,402,0.19,2016-10-01,2017-09-30
+123,Age Category,Adult 18-24,2017,PH,7,52,0.13,2016-10-01,2017-09-30
+124,Age Category,Elder Adult 62+,2017,PH,6,31,0.19,2016-10-01,2017-09-30
+125,Age Category,Children,2017,PH,45,270,0.17,2016-10-01,2017-09-30
+126,Age Category,Client Doesn't Know or Client Refused,2017,PH,0,0,0.0,2016-10-01,2017-09-30
+127,Disability Status,Has a Disabling Condition,2017,PH,121,321,0.38,2016-10-01,2017-09-30
+128,Disability Status,Does Not Have a Disabling Condition,2017,PH,47,432,0.11,2016-10-01,2017-09-30
+129,Disability Status,Client Doesn't Know or Client Refused,2017,PH,0,2,0.0,2016-10-01,2017-09-30
+130,Race,American Indian or Alaskan Native,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+131,Race,Asian,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+132,Race,Black or African American,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+133,Race,Native Hawaiian or Other Pacific Islander,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+134,Race,White,2018,SO,3,8,0.38,2017-10-01,2018-09-30
+135,Race,Client Doesn't Know or Client Refused,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+136,Ethnicity,Hispanic/Latino,2018,SO,1,3,0.33,2017-10-01,2018-09-30
+137,Ethnicity,Non-Hispanic/Non-Latino,2018,SO,2,5,0.4,2017-10-01,2018-09-30
+138,Ethnicity,Client Doesn't Know or Client Refused,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+139,Gender,Female,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+140,Gender,Male,2018,SO,3,8,0.38,2017-10-01,2018-09-30
+141,Gender,Trans Female,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+142,Gender,Trans Male,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+143,Gender,Gender Non-Conforming,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+144,Gender,Client Doesn't Know or Client Refused,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+145,Veteran Status,Veteran,2018,SO,2,2,1.0,2017-10-01,2018-09-30
+146,Veteran Status,Not a Veteran,2018,SO,1,6,0.17,2017-10-01,2018-09-30
+147,Veteran Status,Client Doesn't Know or Client Refused,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+148,Age Category,Adult 25-61,2018,SO,2,3,0.67,2017-10-01,2018-09-30
+149,Age Category,Adult 18-24,2018,SO,1,5,0.2,2017-10-01,2018-09-30
+150,Age Category,Elder Adult 62+,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+151,Age Category,Children,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+152,Age Category,Client Doesn't Know or Client Refused,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+153,Disability Status,Has a Disabling Condition,2018,SO,2,4,0.5,2017-10-01,2018-09-30
+154,Disability Status,Does Not Have a Disabling Condition,2018,SO,1,4,0.25,2017-10-01,2018-09-30
+155,Disability Status,Client Doesn't Know or Client Refused,2018,SO,0,0,0.0,2017-10-01,2018-09-30
+156,Race,American Indian or Alaskan Native,2018,ES,2,3,0.67,2017-10-01,2018-09-30
+157,Race,Asian,2018,ES,1,8,0.13,2017-10-01,2018-09-30
+158,Race,Black or African American,2018,ES,45,261,0.17,2017-10-01,2018-09-30
+159,Race,Native Hawaiian or Other Pacific Islander,2018,ES,1,5,0.2,2017-10-01,2018-09-30
+160,Race,White,2018,ES,62,268,0.23,2017-10-01,2018-09-30
+161,Race,Client Doesn't Know or Client Refused,2018,ES,0,11,0.0,2017-10-01,2018-09-30
+162,Ethnicity,Hispanic/Latino,2018,ES,18,170,0.11,2017-10-01,2018-09-30
+163,Ethnicity,Non-Hispanic/Non-Latino,2018,ES,92,383,0.24,2017-10-01,2018-09-30
+164,Ethnicity,Client Doesn't Know or Client Refused,2018,ES,1,3,0.33,2017-10-01,2018-09-30
+165,Gender,Female,2018,ES,55,248,0.22,2017-10-01,2018-09-30
+166,Gender,Male,2018,ES,56,304,0.18,2017-10-01,2018-09-30
+167,Gender,Trans Female,2018,ES,0,2,0.0,2017-10-01,2018-09-30
+168,Gender,Trans Male,2018,ES,0,1,0.0,2017-10-01,2018-09-30
+169,Gender,Gender Non-Conforming,2018,ES,0,0,0.0,2017-10-01,2018-09-30
+170,Gender,Client Doesn't Know or Client Refused,2018,ES,0,1,0.0,2017-10-01,2018-09-30
+171,Veteran Status,Veteran,2018,ES,18,72,0.25,2017-10-01,2018-09-30
+172,Veteran Status,Not a Veteran,2018,ES,93,483,0.19,2017-10-01,2018-09-30
+173,Veteran Status,Client Doesn't Know or Client Refused,2018,ES,0,0,0.0,2017-10-01,2018-09-30
+174,Age Category,Adult 25-61,2018,ES,80,330,0.24,2017-10-01,2018-09-30
+175,Age Category,Adult 18-24,2018,ES,5,35,0.14,2017-10-01,2018-09-30
+176,Age Category,Elder Adult 62+,2018,ES,11,34,0.32,2017-10-01,2018-09-30
+177,Age Category,Children,2018,ES,15,157,0.1,2017-10-01,2018-09-30
+178,Age Category,Client Doesn't Know or Client Refused,2018,ES,0,0,0.0,2017-10-01,2018-09-30
+179,Disability Status,Has a Disabling Condition,2018,ES,52,172,0.3,2017-10-01,2018-09-30
+180,Disability Status,Does Not Have a Disabling Condition,2018,ES,59,379,0.16,2017-10-01,2018-09-30
+181,Disability Status,Client Doesn't Know or Client Refused,2018,ES,0,5,0.0,2017-10-01,2018-09-30
+182,Race,American Indian or Alaskan Native,2018,TH,0,0,0.0,2017-10-01,2018-09-30
+183,Race,Asian,2018,TH,0,1,0.0,2017-10-01,2018-09-30
+184,Race,Black or African American,2018,TH,13,80,0.16,2017-10-01,2018-09-30
+185,Race,Native Hawaiian or Other Pacific Islander,2018,TH,0,0,0.0,2017-10-01,2018-09-30
+186,Race,White,2018,TH,17,99,0.17,2017-10-01,2018-09-30
+187,Race,Client Doesn't Know or Client Refused,2018,TH,0,0,0.0,2017-10-01,2018-09-30
+188,Ethnicity,Hispanic/Latino,2018,TH,11,68,0.16,2017-10-01,2018-09-30
+189,Ethnicity,Non-Hispanic/Non-Latino,2018,TH,19,112,0.17,2017-10-01,2018-09-30
+190,Ethnicity,Client Doesn't Know or Client Refused,2018,TH,0,0,0.0,2017-10-01,2018-09-30
+191,Gender,Female,2018,TH,20,105,0.19,2017-10-01,2018-09-30
+192,Gender,Male,2018,TH,10,73,0.14,2017-10-01,2018-09-30
+193,Gender,Trans Female,2018,TH,0,1,0.0,2017-10-01,2018-09-30
+194,Gender,Trans Male,2018,TH,0,1,0.0,2017-10-01,2018-09-30
+195,Gender,Gender Non-Conforming,2018,TH,0,0,0.0,2017-10-01,2018-09-30
+196,Gender,Client Doesn't Know or Client Refused,2018,TH,0,0,0.0,2017-10-01,2018-09-30
+197,Veteran Status,Veteran,2018,TH,9,51,0.18,2017-10-01,2018-09-30
+198,Veteran Status,Not a Veteran,2018,TH,21,129,0.16,2017-10-01,2018-09-30
+199,Veteran Status,Client Doesn't Know or Client Refused,2018,TH,0,0,0.0,2017-10-01,2018-09-30
+200,Age Category,Adult 25-61,2018,TH,13,69,0.19,2017-10-01,2018-09-30
+201,Age Category,Adult 18-24,2018,TH,5,28,0.18,2017-10-01,2018-09-30
+202,Age Category,Elder Adult 62+,2018,TH,1,8,0.13,2017-10-01,2018-09-30
+203,Age Category,Children,2018,TH,11,75,0.15,2017-10-01,2018-09-30
+204,Age Category,Client Doesn't Know or Client Refused,2018,TH,0,0,0.0,2017-10-01,2018-09-30
+205,Disability Status,Has a Disabling Condition,2018,TH,6,43,0.14,2017-10-01,2018-09-30
+206,Disability Status,Does Not Have a Disabling Condition,2018,TH,24,136,0.18,2017-10-01,2018-09-30
+207,Disability Status,Client Doesn't Know or Client Refused,2018,TH,0,0,0.0,2017-10-01,2018-09-30
+208,Race,American Indian or Alaskan Native,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+209,Race,Asian,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+210,Race,Black or African American,2018,SH,5,12,0.42,2017-10-01,2018-09-30
+211,Race,Native Hawaiian or Other Pacific Islander,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+212,Race,White,2018,SH,5,23,0.22,2017-10-01,2018-09-30
+213,Race,Client Doesn't Know or Client Refused,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+214,Ethnicity,Hispanic/Latino,2018,SH,0,1,0.0,2017-10-01,2018-09-30
+215,Ethnicity,Non-Hispanic/Non-Latino,2018,SH,10,34,0.29,2017-10-01,2018-09-30
+216,Ethnicity,Client Doesn't Know or Client Refused,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+217,Gender,Female,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+218,Gender,Male,2018,SH,10,35,0.29,2017-10-01,2018-09-30
+219,Gender,Trans Female,2018,SH,10,0,0.0,2017-10-01,2018-09-30
+220,Gender,Trans Male,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+221,Gender,Gender Non-Conforming,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+222,Gender,Client Doesn't Know or Client Refused,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+223,Veteran Status,Veteran,2018,SH,10,35,0.29,2017-10-01,2018-09-30
+224,Veteran Status,Not a Veteran,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+225,Veteran Status,Client Doesn't Know or Client Refused,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+226,Age Category,Adult 25-61,2018,SH,6,26,0.23,2017-10-01,2018-09-30
+227,Age Category,Adult 18-24,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+228,Age Category,Elder Adult 62+,2018,SH,4,9,0.44,2017-10-01,2018-09-30
+229,Age Category,Children,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+230,Age Category,Client Doesn't Know or Client Refused,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+231,Disability Status,Has a Disabling Condition,2018,SH,9,30,0.3,2017-10-01,2018-09-30
+232,Disability Status,Does Not Have a Disabling Condition,2018,SH,1,5,0.2,2017-10-01,2018-09-30
+233,Disability Status,Client Doesn't Know or Client Refused,2018,SH,0,0,0.0,2017-10-01,2018-09-30
+234,Race,American Indian or Alaskan Native,2018,PH,0,5,0.0,2017-10-01,2018-09-30
+235,Race,Asian,2018,PH,0,2,0.0,2017-10-01,2018-09-30
+236,Race,Black or African American,2018,PH,86,387,0.22,2017-10-01,2018-09-30
+237,Race,Native Hawaiian or Other Pacific Islander,2018,PH,0,3,0.0,2017-10-01,2018-09-30
+238,Race,White,2018,PH,58,368,0.16,2017-10-01,2018-09-30
+239,Race,Client Doesn't Know or Client Refused,2018,PH,0,8,0.0,2017-10-01,2018-09-30
+240,Ethnicity,Hispanic/Latino,2018,PH,24,215,0.11,2017-10-01,2018-09-30
+241,Ethnicity,Non-Hispanic/Non-Latino,2018,PH,120,557,0.22,2017-10-01,2018-09-30
+242,Ethnicity,Client Doesn't Know or Client Refused,2018,PH,0,1,0.0,2017-10-01,2018-09-30
+243,Gender,Female,2018,PH,40,337,0.12,2017-10-01,2018-09-30
+244,Gender,Male,2018,PH,104,436,0.24,2017-10-01,2018-09-30
+245,Gender,Trans Female,2018,PH,0,0,0.0,2017-10-01,2018-09-30
+246,Gender,Trans Male,2018,PH,0,0,0.0,2017-10-01,2018-09-30
+247,Gender,Gender Non-Conforming,2018,PH,0,0,0.0,2017-10-01,2018-09-30
+248,Gender,Client Doesn't Know or Client Refused,2018,PH,0,0,0.0,2017-10-01,2018-09-30
+249,Veteran Status,Veteran,2018,PH,58,199,0.29,2017-10-01,2018-09-30
+250,Veteran Status,Not a Veteran,2018,PH,86,574,0.15,2017-10-01,2018-09-30
+251,Veteran Status,Client Doesn't Know or Client Refused,2018,PH,0,0,0.0,2017-10-01,2018-09-30
+252,Age Category,Adult 25-61,2018,PH,98,444,0.22,2017-10-01,2018-09-30
+253,Age Category,Adult 18-24,2018,PH,7,23,0.3,2017-10-01,2018-09-30
+254,Age Category,Elder Adult 62+,2018,PH,10,39,0.26,2017-10-01,2018-09-30
+255,Age Category,Children,2018,PH,29,267,0.11,2017-10-01,2018-09-30
+256,Age Category,Client Doesn't Know or Client Refused,2018,PH,0,0,0.0,2017-10-01,2018-09-30
+257,Disability Status,Has a Disabling Condition,2018,PH,90,376,0.24,2017-10-01,2018-09-30
+258,Disability Status,Does Not Have a Disabling Condition,2018,PH,53,395,0.13,2017-10-01,2018-09-30
+259,Disability Status,Client Doesn't Know or Client Refused,2018,PH,1,2,0.5,2017-10-01,2018-09-30
+260,Race,American Indian or Alaskan Native,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+261,Race,Asian,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+262,Race,Black or African American,2019,SO,1,3,0.33,2018-10-01,2019-09-30
+263,Race,Native Hawaiian or Other Pacific Islander,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+264,Race,White,2019,SO,3,7,0.43,2018-10-01,2019-09-30
+265,Race,Client Doesn't Know or Client Refused,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+266,Ethnicity,Hispanic/Latino,2019,SO,2,2,1.0,2018-10-01,2019-09-30
+267,Ethnicity,Non-Hispanic/Non-Latino,2019,SO,2,8,0.25,2018-10-01,2019-09-30
+268,Ethnicity,Client Doesn't Know or Client Refused,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+269,Gender,Female,2019,SO,2,5,0.4,2018-10-01,2019-09-30
+270,Gender,Male,2019,SO,2,5,0.4,2018-10-01,2019-09-30
+271,Gender,Trans Female,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+272,Gender,Trans Male,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+273,Gender,Gender Non-Conforming,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+274,Gender,Client Doesn't Know or Client Refused,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+275,Veteran Status,Veteran,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+276,Veteran Status,Not a Veteran,2019,SO,3,9,0.33,2018-10-01,2019-09-30
+277,Veteran Status,Client Doesn't Know or Client Refused,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+278,Age Category,Adult 25-61,2019,SO,3,6,0.5,2018-10-01,2019-09-30
+279,Age Category,Adult 18-24,2019,SO,0,3,0.0,2018-10-01,2019-09-30
+280,Age Category,Elder Adult 62+,2019,SO,1,1,1.0,2018-10-01,2019-09-30
+281,Age Category,Children,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+282,Age Category,Client Doesn't Know or Client Refused,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+283,Disability Status,Has a Disabling Condition,2019,SO,4,9,0.44,2018-10-01,2019-09-30
+284,Disability Status,Does Not Have a Disabling Condition,2019,SO,0,1,0.0,2018-10-01,2019-09-30
+285,Disability Status,Client Doesn't Know or Client Refused,2019,SO,0,0,0.0,2018-10-01,2019-09-30
+286,Race,American Indian or Alaskan Native,2019,ES,1,4,0.25,2018-10-01,2019-09-30
+287,Race,Asian,2019,ES,0,2,0.0,2018-10-01,2019-09-30
+288,Race,Black or African American,2019,ES,47,322,0.15,2018-10-01,2019-09-30
+289,Race,Native Hawaiian or Other Pacific Islander,2019,ES,0,3,0.0,2018-10-01,2019-09-30
+290,Race,White,2019,ES,59,227,0.26,2018-10-01,2019-09-30
+291,Race,Client Doesn't Know or Client Refused,2019,ES,1,3,0.33,2018-10-01,2019-09-30
+292,Ethnicity,Hispanic/Latino,2019,ES,38,165,0.23,2018-10-01,2019-09-30
+293,Ethnicity,Non-Hispanic/Non-Latino,2019,ES,70,395,0.18,2018-10-01,2019-09-30
+294,Ethnicity,Client Doesn't Know or Client Refused,2019,ES,0,1,0.0,2018-10-01,2019-09-30
+295,Gender,Female,2019,ES,61,285,0.21,2018-10-01,2019-09-30
+296,Gender,Male,2019,ES,45,272,0.17,2018-10-01,2019-09-30
+297,Gender,Trans Female,2019,ES,1,2,0.5,2018-10-01,2019-09-30
+298,Gender,Trans Male,2019,ES,1,2,0.5,2018-10-01,2019-09-30
+299,Gender,Gender Non-Conforming,2019,ES,0,0,0.0,2018-10-01,2019-09-30
+300,Gender,Client Doesn't Know or Client Refused,2019,ES,0,0,0.0,2018-10-01,2019-09-30
+301,Veteran Status,Veteran,2019,ES,17,49,0.35,2018-10-01,2019-09-30
+302,Veteran Status,Not a Veteran,2019,ES,91,511,0.18,2018-10-01,2019-09-30
+303,Veteran Status,Client Doesn't Know or Client Refused,2019,ES,0,0,0.0,2018-10-01,2019-09-30
+304,Age Category,Adult 25-61,2019,ES,68,310,0.22,2018-10-01,2019-09-30
+305,Age Category,Adult 18-24,2019,ES,7,36,0.19,2018-10-01,2019-09-30
+306,Age Category,Elder Adult 62+,2019,ES,5,14,0.36,2018-10-01,2019-09-30
+307,Age Category,Children,2019,ES,28,201,0.14,2018-10-01,2019-09-30
+308,Age Category,Client Doesn't Know or Client Refused,2019,ES,0,0,0.0,2018-10-01,2019-09-30
+309,Disability Status,Has a Disabling Condition,2019,ES,47,159,0.3,2018-10-01,2019-09-30
+310,Disability Status,Does Not Have a Disabling Condition,2019,ES,61,402,0.15,2018-10-01,2019-09-30
+311,Disability Status,Client Doesn't Know or Client Refused,2019,ES,0,0,0.0,2018-10-01,2019-09-30
+312,Race,American Indian or Alaskan Native,2019,TH,0,0,0.0,2018-10-01,2019-09-30
+313,Race,Asian,2019,TH,0,1,0.0,2018-10-01,2019-09-30
+314,Race,Black or African American,2019,TH,8,56,0.14,2018-10-01,2019-09-30
+315,Race,Native Hawaiian or Other Pacific Islander,2019,TH,0,0,0.0,2018-10-01,2019-09-30
+316,Race,White,2019,TH,9,57,0.16,2018-10-01,2019-09-30
+317,Race,Client Doesn't Know or Client Refused,2019,TH,0,0,0.0,2018-10-01,2019-09-30
+318,Ethnicity,Hispanic/Latino,2019,TH,6,33,0.18,2018-10-01,2019-09-30
+319,Ethnicity,Non-Hispanic/Non-Latino,2019,TH,11,80,0.14,2018-10-01,2019-09-30
+320,Ethnicity,Client Doesn't Know or Client Refused,2019,TH,0,1,0.0,2018-10-01,2019-09-30
+321,Gender,Female,2019,TH,8,46,0.17,2018-10-01,2019-09-30
+322,Gender,Male,2019,TH,9,68,0.13,2018-10-01,2019-09-30
+323,Gender,Trans Female,2019,TH,0,0,0.0,2018-10-01,2019-09-30
+324,Gender,Trans Male,2019,TH,0,0,0.0,2018-10-01,2019-09-30
+325,Gender,Gender Non-Conforming,2019,TH,0,0,0.0,2018-10-01,2019-09-30
+326,Gender,Client Doesn't Know or Client Refused,2019,TH,0,0,0.0,2018-10-01,2019-09-30
+327,Veteran Status,Veteran,2019,TH,8,47,0.17,2018-10-01,2019-09-30
+328,Veteran Status,Not a Veteran,2019,TH,9,67,0.13,2018-10-01,2019-09-30
+329,Veteran Status,Client Doesn't Know or Client Refused,2019,TH,0,0,0.0,2018-10-01,2019-09-30
+330,Age Category,Adult 25-61,2019,TH,2,22,0.09,2018-10-01,2019-09-30
+331,Age Category,Adult 18-24,2019,TH,10,47,0.21,2018-10-01,2019-09-30
+332,Age Category,Elder Adult 62+,2019,TH,0,8,0.0,2018-10-01,2019-09-30
+333,Age Category,Children,2019,TH,5,37,0.14,2018-10-01,2019-09-30
+334,Age Category,Client Doesn't Know or Client Refused,2019,TH,0,0,0.0,2018-10-01,2019-09-30
+335,Disability Status,Has a Disabling Condition,2019,TH,3,32,0.09,2018-10-01,2019-09-30
+336,Disability Status,Does Not Have a Disabling Condition,2019,TH,14,82,0.17,2018-10-01,2019-09-30
+337,Disability Status,Client Doesn't Know or Client Refused,2019,TH,0,0,0.0,2018-10-01,2019-09-30
+338,Race,American Indian or Alaskan Native,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+339,Race,Asian,2019,SH,0,1,0.0,2018-10-01,2019-09-30
+340,Race,Black or African American,2019,SH,3,7,0.43,2018-10-01,2019-09-30
+341,Race,Native Hawaiian or Other Pacific Islander,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+342,Race,White,2019,SH,2,22,0.09,2018-10-01,2019-09-30
+343,Race,Client Doesn't Know or Client Refused,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+344,Ethnicity,Hispanic/Latino,2019,SH,0,3,0.0,2018-10-01,2019-09-30
+345,Ethnicity,Non-Hispanic/Non-Latino,2019,SH,5,27,0.19,2018-10-01,2019-09-30
+346,Ethnicity,Client Doesn't Know or Client Refused,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+347,Gender,Female,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+348,Gender,Male,2019,SH,5,30,0.17,2018-10-01,2019-09-30
+349,Gender,Trans Female,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+350,Gender,Trans Male,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+351,Gender,Gender Non-Conforming,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+352,Gender,Client Doesn't Know or Client Refused,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+353,Veteran Status,Veteran,2019,SH,5,30,0.17,2018-10-01,2019-09-30
+354,Veteran Status,Not a Veteran,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+355,Veteran Status,Client Doesn't Know or Client Refused,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+356,Age Category,Adult 25-61,2019,SH,5,26,0.19,2018-10-01,2019-09-30
+357,Age Category,Adult 18-24,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+358,Age Category,Elder Adult 62+,2019,SH,0,4,0.0,2018-10-01,2019-09-30
+359,Age Category,Children,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+360,Age Category,Client Doesn't Know or Client Refused,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+361,Disability Status,Has a Disabling Condition,2019,SH,4,27,0.15,2018-10-01,2019-09-30
+362,Disability Status,Does Not Have a Disabling Condition,2019,SH,1,3,0.33,2018-10-01,2019-09-30
+363,Disability Status,Client Doesn't Know or Client Refused,2019,SH,0,0,0.0,2018-10-01,2019-09-30
+364,Race,American Indian or Alaskan Native,2019,PH,2,9,0.22,2018-10-01,2019-09-30
+365,Race,Asian,2019,PH,0,3,0.0,2018-10-01,2019-09-30
+366,Race,Black or African American,2019,PH,62,358,0.17,2018-10-01,2019-09-30
+367,Race,Native Hawaiian or Other Pacific Islander,2019,PH,0,0,0.0,2018-10-01,2019-09-30
+368,Race,White,2019,PH,54,422,0.13,2018-10-01,2019-09-30
+369,Race,Client Doesn't Know or Client Refused,2019,PH,0,5,0.0,2018-10-01,2019-09-30
+370,Ethnicity,Hispanic/Latino,2019,PH,22,203,0.11,2018-10-01,2019-09-30
+371,Ethnicity,Non-Hispanic/Non-Latino,2019,PH,96,594,0.16,2018-10-01,2019-09-30
+372,Ethnicity,Client Doesn't Know or Client Refused,2019,PH,0,0,0.0,2018-10-01,2019-09-30
+373,Gender,Female,2019,PH,27,307,0.09,2018-10-01,2019-09-30
+374,Gender,Male,2019,PH,90,484,0.19,2018-10-01,2019-09-30
+375,Gender,Trans Female,2019,PH,1,5,0.2,2018-10-01,2019-09-30
+376,Gender,Trans Male,2019,PH,0,1,0.0,2018-10-01,2019-09-30
+377,Gender,Gender Non-Conforming,2019,PH,0,0,0.0,2018-10-01,2019-09-30
+378,Gender,Client Doesn't Know or Client Refused,2019,PH,0,0,0.0,2018-10-01,2019-09-30
+379,Veteran Status,Veteran,2019,PH,44,205,0.21,2018-10-01,2019-09-30
+380,Veteran Status,Not a Veteran,2019,PH,74,588,0.13,2018-10-01,2019-09-30
+381,Veteran Status,Client Doesn't Know or Client Refused,2019,PH,0,0,0.0,2018-10-01,2019-09-30
+382,Age Category,Adult 25-61,2019,PH,89,475,0.19,2018-10-01,2019-09-30
+383,Age Category,Adult 18-24,2019,PH,8,43,0.19,2018-10-01,2019-09-30
+384,Age Category,Elder Adult 62+,2019,PH,10,58,0.17,2018-10-01,2019-09-30
+385,Age Category,Children,2019,PH,11,222,0.05,2018-10-01,2019-09-30
+386,Age Category,Client Doesn't Know or Client Refused,2019,PH,0,0,0.0,2018-10-01,2019-09-30
+387,Disability Status,Has a Disabling Condition,2019,PH,76,439,0.17,2018-10-01,2019-09-30
+388,Disability Status,Does Not Have a Disabling Condition,2019,PH,42,354,0.12,2018-10-01,2019-09-30
+389,Disability Status,Client Doesn't Know or Client Refused,2019,PH,0,2,0.0,2018-10-01,2019-09-30
+390,Race,AmIndAKNative,2020,ES,0,1,0.0,2019-10-01,2020-09-30
+391,Race,Asian,2020,ES,1,8,0.13,2019-10-01,2020-09-30
+392,Race,BlackAfAmerican,2020,ES,68,420,0.16,2019-10-01,2020-09-30
+393,Race,NativeHIOtherPacific,2020,ES,0,2,0.0,2019-10-01,2020-09-30
+394,Race,Two or more races,2020,ES,14,42,0.33,2019-10-01,2020-09-30
+395,Race,Unknown,2020,ES,0,3,0.0,2019-10-01,2020-09-30
+396,Race,White,2020,ES,76,398,0.19,2019-10-01,2020-09-30
+397,Race,AmIndAKNative,2020,PH,0,12,0.0,2019-10-01,2020-09-30
+398,Race,Asian,2020,PH,0,1,0.0,2019-10-01,2020-09-30
+399,Race,BlackAfAmerican,2020,PH,52,256,0.2,2019-10-01,2020-09-30
+400,Race,Two or more races,2020,PH,13,59,0.22,2019-10-01,2020-09-30
+401,Race,Unknown,2020,PH,1,35,0.03,2019-10-01,2020-09-30
+402,Race,White,2020,PH,40,297,0.13,2019-10-01,2020-09-30
+403,Race,AmIndAKNative,2020,SH,0,1,0.0,2019-10-01,2020-09-30
+404,Race,BlackAfAmerican,2020,SH,2,5,0.4,2019-10-01,2020-09-30
+405,Race,Two or more races,2020,SH,0,6,0.0,2019-10-01,2020-09-30
+406,Race,Unknown,2020,SH,0,1,0.0,2019-10-01,2020-09-30
+407,Race,White,2020,SH,7,21,0.33,2019-10-01,2020-09-30
+408,Race,AmIndAKNative,2020,SO,0,1,0.0,2019-10-01,2020-09-30
+409,Race,BlackAfAmerican,2020,SO,2,8,0.25,2019-10-01,2020-09-30
+410,Race,Two or more races,2020,SO,1,3,0.33,2019-10-01,2020-09-30
+411,Race,Unknown,2020,SO,1,2,0.5,2019-10-01,2020-09-30
+412,Race,White,2020,SO,8,27,0.3,2019-10-01,2020-09-30
+413,Race,BlackAfAmerican,2020,TH,19,58,0.33,2019-10-01,2020-09-30
+414,Race,Two or more races,2020,TH,0,10,0.0,2019-10-01,2020-09-30
+415,Race,Unknown,2020,TH,0,2,0.0,2019-10-01,2020-09-30
+416,Race,White,2020,TH,6,71,0.08,2019-10-01,2020-09-30
+417,Ethnicity,Hispanic/Latino,2020,ES,57,305,0.19,2019-10-01,2020-09-30
+418,Ethnicity,Non-Hispanic/Non-Latino,2020,ES,102,568,0.18,2019-10-01,2020-09-30
+419,Ethnicity,Unknown,2020,ES,0,1,0.0,2019-10-01,2020-09-30
+420,Ethnicity,Hispanic/Latino,2020,PH,21,163,0.13,2019-10-01,2020-09-30
+421,Ethnicity,Non-Hispanic/Non-Latino,2020,PH,84,472,0.18,2019-10-01,2020-09-30
+422,Ethnicity,Unknown,2020,PH,1,25,0.04,2019-10-01,2020-09-30
+423,Ethnicity,Hispanic/Latino,2020,SH,0,6,0.0,2019-10-01,2020-09-30
+424,Ethnicity,Non-Hispanic/Non-Latino,2020,SH,9,28,0.32,2019-10-01,2020-09-30
+425,Ethnicity,Hispanic/Latino,2020,SO,4,13,0.31,2019-10-01,2020-09-30
+426,Ethnicity,Non-Hispanic/Non-Latino,2020,SO,8,28,0.29,2019-10-01,2020-09-30
+427,Ethnicity,Hispanic/Latino,2020,TH,2,48,0.04,2019-10-01,2020-09-30
+428,Ethnicity,Non-Hispanic/Non-Latino,2020,TH,23,92,0.25,2019-10-01,2020-09-30
+429,Ethnicity,Unknown,2020,TH,0,1,0.0,2019-10-01,2020-09-30
+430,Gender,Female,2020,ES,66,385,0.17,2019-10-01,2020-09-30
+431,Gender,Gender non-conforming,2020,ES,0,1,0.0,2019-10-01,2020-09-30
+432,Gender,Male,2020,ES,91,484,0.19,2019-10-01,2020-09-30
+433,Gender,Trans Female,2020,ES,2,4,0.5,2019-10-01,2020-09-30
+434,Gender,Female,2020,PH,43,257,0.17,2019-10-01,2020-09-30
+435,Gender,Male,2020,PH,63,377,0.17,2019-10-01,2020-09-30
+436,Gender,Trans Female,2020,PH,0,4,0.0,2019-10-01,2020-09-30
+437,Gender,Unknown,2020,PH,0,22,0.0,2019-10-01,2020-09-30
+438,Gender,Gender non-conforming,2020,SH,0,1,0.0,2019-10-01,2020-09-30
+439,Gender,Male,2020,SH,9,32,0.28,2019-10-01,2020-09-30
+440,Gender,Trans Female,2020,SH,0,1,0.0,2019-10-01,2020-09-30
+441,Gender,Female,2020,SO,2,14,0.14,2019-10-01,2020-09-30
+442,Gender,Male,2020,SO,9,26,0.35,2019-10-01,2020-09-30
+443,Gender,Trans Male,2020,SO,1,1,1.0,2019-10-01,2020-09-30
+444,Gender,Female,2020,TH,10,67,0.15,2019-10-01,2020-09-30
+445,Gender,Male,2020,TH,15,74,0.2,2019-10-01,2020-09-30
+446,Veteran,No,2020,ES,145,801,0.18,2019-10-01,2020-09-30
+447,Veteran,Unknown,2020,ES,0,1,0.0,2019-10-01,2020-09-30
+448,Veteran,Yes,2020,ES,14,72,0.19,2019-10-01,2020-09-30
+449,Veteran,No,2020,PH,64,461,0.14,2019-10-01,2020-09-30
+450,Veteran,Unknown,2020,PH,0,23,0.0,2019-10-01,2020-09-30
+451,Veteran,Yes,2020,PH,42,176,0.24,2019-10-01,2020-09-30
+452,Veteran,Unknown,2020,SH,0,1,0.0,2019-10-01,2020-09-30
+453,Veteran,Yes,2020,SH,9,33,0.27,2019-10-01,2020-09-30
+454,Veteran,No,2020,SO,11,33,0.33,2019-10-01,2020-09-30
+455,Veteran,Unknown,2020,SO,0,4,0.0,2019-10-01,2020-09-30
+456,Veteran,Yes,2020,SO,1,4,0.25,2019-10-01,2020-09-30
+457,Veteran,No,2020,TH,15,97,0.15,2019-10-01,2020-09-30
+458,Veteran,Yes,2020,TH,10,44,0.23,2019-10-01,2020-09-30
+459,Age,Adult under 62,2020,ES,113,521,0.22,2019-10-01,2020-09-30
+460,Age,Children,2020,ES,25,238,0.11,2019-10-01,2020-09-30
+461,Age,Elder Adult,2020,ES,11,43,0.26,2019-10-01,2020-09-30
+462,Age,Young Adult,2020,ES,10,72,0.14,2019-10-01,2020-09-30
+463,Age,Adult under 62,2020,PH,68,344,0.2,2019-10-01,2020-09-30
+464,Age,Children,2020,PH,20,174,0.11,2019-10-01,2020-09-30
+465,Age,Elder Adult,2020,PH,10,76,0.13,2019-10-01,2020-09-30
+466,Age,Unknown,2020,PH,0,22,0.0,2019-10-01,2020-09-30
+467,Age,Young Adult,2020,PH,8,44,0.18,2019-10-01,2020-09-30
+468,Age,Adult under 62,2020,SH,8,23,0.35,2019-10-01,2020-09-30
+469,Age,Elder Adult,2020,SH,1,11,0.09,2019-10-01,2020-09-30
+470,Age,Adult under 62,2020,SO,4,24,0.17,2019-10-01,2020-09-30
+471,Age,Elder Adult,2020,SO,3,6,0.5,2019-10-01,2020-09-30
+472,Age,Young Adult,2020,SO,5,11,0.45,2019-10-01,2020-09-30
+473,Age,Adult under 62,2020,TH,12,64,0.19,2019-10-01,2020-09-30
+474,Age,Children,2020,TH,8,50,0.16,2019-10-01,2020-09-30
+475,Age,Elder Adult,2020,TH,0,6,0.0,2019-10-01,2020-09-30
+476,Age,Young Adult,2020,TH,5,21,0.24,2019-10-01,2020-09-30
+477,Disability,No,2020,ES,81,564,0.14,2019-10-01,2020-09-30
+478,Disability,Yes,2020,ES,78,310,0.25,2019-10-01,2020-09-30
+479,Disability,No,2020,PH,42,272,0.15,2019-10-01,2020-09-30
+480,Disability,Unknown,2020,PH,1,30,0.03,2019-10-01,2020-09-30
+481,Disability,Yes,2020,PH,63,358,0.18,2019-10-01,2020-09-30
+482,Disability,No,2020,SH,0,2,0.0,2019-10-01,2020-09-30
+483,Disability,Yes,2020,SH,9,32,0.28,2019-10-01,2020-09-30
+484,Disability,No,2020,SO,2,7,0.29,2019-10-01,2020-09-30
+485,Disability,Unknown,2020,SO,3,10,0.3,2019-10-01,2020-09-30
+486,Disability,Yes,2020,SO,7,24,0.29,2019-10-01,2020-09-30
+487,Disability,No,2020,TH,6,36,0.17,2019-10-01,2020-09-30
+488,Disability,Unknown,2020,TH,12,78,0.15,2019-10-01,2020-09-30
+489,Disability,Yes,2020,TH,7,27,0.26,2019-10-01,2020-09-30
