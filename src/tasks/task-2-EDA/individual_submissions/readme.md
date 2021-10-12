@@ -11,7 +11,7 @@
 |  Shubham Raheja |        #9      |                     Visualization, Feature Engineering, Conclusion                                  |
 |Muhammad Wasiq|        #8   |             Data Insights, Data Visualizations                                         |
 | Muhammad Wasiq          |       #3    |     Data Cleaning, Data Insights, Data Visualizations                                                 |
-|           |           |                                                      |
+|Ankit Singh           | #28          |   Data Visualization and Insights                                                   |
 |           |           |                                                      |
 |           |           |                                                      |
 |           |           |                                                      |
