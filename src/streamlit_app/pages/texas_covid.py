@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 from pathlib import Path
+import os
 
 def app():
     st.title("Spread of COVID-19 in Texas by County")
@@ -10,13 +11,14 @@ def app():
     st.sidebar.title("Select Visual Charts")
     st.sidebar.markdown("Select a Chart/Plot from the list:")
 
-    data = Path(__file__).parents[1]/ 'data\COVID_case_count_data.csv'
-    data = pd.read_csv(data)
+    filepath = os.path.join(Path(__file__).parents[1],
+                            'data/covid_case_count.csv')
+    data = pd.read_csv(filepath)
 
     chart_visual = st.sidebar.selectbox("Select Charts/Plot type", 
                                         ('Line Chart', 'Bar Chart', 'Bubble Chart'))
 
-    st.sidebar.checkbox("Show Analysis by Cases", True, key = 1)
+    st.sidebar.checkbox("Show Analysis by Cases", True, key=1)
     selected_status = st.sidebar.selectbox('Select Case Type',
                                            options = ['confirmed_cases', 'probable_cases', 'fatalities'])
 

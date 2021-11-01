@@ -9,10 +9,13 @@ import seaborn as sns
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
-import json
+from pathlib import Path
+import json, os
 
 def app():
-    df = pd.read_csv(r'C:\Users\Alex Lucchesi\OneDrive\Documents\GitHub\omdena-texas-homelessness\src\dashboards\app\data\prison_data.csv')
+    filepath = os.path.join(Path(__file__).parents[1],
+                            'data/prison_data.csv')
+    df = pd.read_csv(filepath)
     st.title("Prison Data")
     st.markdown("The dashboard will help anyone to get to know \
         more about the given datasets and it's output")

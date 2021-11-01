@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 from pathlib import Path
+import os
 
 def app():
 
@@ -11,17 +12,18 @@ def app():
     st.sidebar.title("Select Visual Charts")
     st.sidebar.markdown("Select a Chart/Plot from the list:")
 
-    data = Path(__file__).parents[1]/ 'data\Texas_income_poverty_stats.csv'
-    data = pd.read_csv(data)
+    filepath = os.path.join(Path(__file__).parents[1], 
+                             'data/texas_income_poverty_stats.csv')
+    data = pd.read_csv(filepath)
 
     chart_visual = st.sidebar.selectbox("Select Charts/Plot Type", 
                                         ("Line Chart", "Bar Chart", "Scatter Plot"))
 
-    st.sidebar.checkbox("Show Analysis by Category", True, key = 1)
+    st.sidebar.checkbox("Show Analysis by Category", True, key=1)
     selected_status = st.sidebar.selectbox("Select a Category",
-                                           options = ['Total Personal Income', 'Median Household Income', 
+                                           options = ['Total Personal Income', 'Median Household Income',
                                                       'Average Annual Pay',
-                                                      'Percentage of Population in Poverty', 
+                                                      'Percentage of Population in Poverty',
                                                       'Percentage of Population Under 18 in Poverty'])
 
     fig = go.Figure()
