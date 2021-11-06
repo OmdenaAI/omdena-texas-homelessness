@@ -17,6 +17,7 @@ def app():
     filepath = os.path.join(Path(__file__).parents[1], 
                              'data/HIC_FINAL_REPORT.csv')
     data = pd.read_csv(filepath)
+    data['Difference'] = data['Year_2017'] - data['Year_2016']
 
     chart_visual = st.sidebar.selectbox("Select Charts/Plot Type", 
                                         ("Line Chart", "Bar Chart", "Scatter Plot", "HeatMap"))
