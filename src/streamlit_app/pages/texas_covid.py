@@ -6,8 +6,8 @@ import os
 
 def app():
     st.title("Spread of COVID-19 in Texas by County")
-    st.markdown("The dashboard will help anyone to get to know \
-        more about the given datasets and it's output")
+    st.markdown("This dashboard highlights counties in Texas and the sum of their populous \
+        with confirmed COVID cases, probable cases, and fatalities due to COVID-19.")
     st.sidebar.title("Select Visual Charts")
     st.sidebar.markdown("Select a Chart/Plot from the list:")
 

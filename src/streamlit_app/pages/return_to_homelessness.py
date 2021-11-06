@@ -9,8 +9,10 @@ def app():
     
     # Create styling for page
     st.title("Return to Homelessness Rates in Texas")
-    st.markdown(" The dashboard will help anyone to get to know \
-        more about the given datasets and it's output")
+    st.markdown(" This dashboard highlights different types of housing assistance available \
+        for homeless people and their rates of returns to homelessness. Assistance in the form of \
+            Transitional Housing has helped more people in Texas. More information on what these \
+                different programs are [here](https://files.hudexchange.info/resources/documents/System-Performance-Measures-HMIS-Programming-Specifications.pdf)")
     st.sidebar.title("Select Visual Charts")
     st.sidebar.markdown("Select a Chart/Plot from the list:")
     
