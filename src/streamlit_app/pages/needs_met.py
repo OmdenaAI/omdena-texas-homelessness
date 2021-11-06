@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 import seaborn as sns
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
@@ -12,8 +11,8 @@ def app():
                             'data/needs_met_by_outreach_teams.csv')
     df = pd.read_csv(filepath)
     st.title("Needs met by Outreach Teams")
-    st.markdown("The dashboard will help anyone to get to know \
-        more about the given datasets and it's output")
+    st.markdown("The dashboard displays information pertaining to different categories of \
+        homeless needs met by outreach teams within Texas")
     st.sidebar.title("Select Visual Charts")
     st.sidebar.markdown("Select a Chart/Plot from the list:")
     chart_visual = st.sidebar.selectbox("Select Charts/Plot type", 
@@ -26,13 +25,10 @@ def app():
         fig, ax = plt.subplots()
         sns.heatmap(df.corr(), ax =ax, cmap="Blues")
         st.write(fig)
-    # if chart_visual == 'Line Chart':
-    #     fig.add_trace(go.Scatter(x=df.need_type, 
-    #                              y=df.number_of_needs_met,
-    #                              name='number_of_needs_met',
-    #                              mode='lines'))
+        
     elif chart_visual == 'Bar Chart':
         fig.add_trace(go.Bar(x=df.need_type,
                              y=df.number_of_needs_met,
                              name='number_of_needs_met'))
-    st.plotly_chart(fig, use_container_width=True)
+        # Fixed display issue with Heatmap by returning value inside if statement
+        st.plotly_chart(fig, use_container_width=True)

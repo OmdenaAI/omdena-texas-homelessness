@@ -1,24 +1,20 @@
-from os import name
+# Removed unneccessary imports
 
-from pandas.core.algorithms import mode
 import streamlit as st
 import pandas as pd
-import numpy as np
-import plotly.express as px
 import seaborn as sns
-from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 from pathlib import Path
-import json, os
+import os
 
 def app():
     filepath = os.path.join(Path(__file__).parents[1],
                             'data/prison_data.csv')
     df = pd.read_csv(filepath)
     st.title("Prison Data")
-    st.markdown("The dashboard will help anyone to get to know \
-        more about the given datasets and it's output")
+    st.markdown("Provides visualizations of Prisoner data by gender, from Texas, \
+        spanning from 1978 - 2016.")
     st.sidebar.title("Select Visual Charts")
     st.sidebar.markdown("Select a Chart/Plot from the list:")
     chart_visual = st.sidebar.selectbox("Select Charts/Plot type", 
@@ -41,6 +37,7 @@ def app():
             fig.add_trace(go.Scatter(x = df.year , y = df.female , name = 'female' , mode = 'lines'))
         if selected_gender == 'total':
             fig.add_trace(go.Scatter(x = df.year , y = df.female , name = 'total' , mode = 'lines'))
+        st.plotly_chart(fig, use_container_width=True)
     elif chart_visual == 'Bar Chart':
         if selected_gender == 'male':
             fig.add_trace(go.Bar(x = df.year , y = df.male , name = 'male'))
@@ -48,6 +45,7 @@ def app():
             fig.add_trace(go.Bar(x = df.year , y = df.female , name = 'female'))
         if selected_gender == 'total':
             fig.add_trace(go.Bar(x = df.year , y = df.total , name = 'total'))
+        st.plotly_chart(fig, use_container_width=True)
     elif chart_visual == 'Bubble Chart':
         if selected_gender == 'male':
             fig.add_trace(go.Scatter(x = df.year,
@@ -66,4 +64,4 @@ def app():
                                       y = df.total,
                                       mode = 'markers',
                                       name = 'total'))
-    st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, use_container_width=True)
