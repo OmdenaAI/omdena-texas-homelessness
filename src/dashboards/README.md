@@ -1,1 +1,5 @@
-# Visualization Scripts and Notebooks
+# Dashboard
+
+## USAGE
+
+- `streamlit run file_name.py`
