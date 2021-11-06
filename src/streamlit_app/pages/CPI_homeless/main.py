@@ -1,16 +1,17 @@
 # -*- coding: utf-8 -*-
-
-
 import pickle
 import pandas as pd
 import numpy as np
 import joblib
-
+import os
 import streamlit as st
 
+folder_dir = os.path.dirname(os.path.abspath(__file__))
+
+
 def model(X):
-    scaler= joblib.load('pages\CPI_homeless\models\scaler.save')
-    mfile = open('pages/CPI_homeless/models/finalized_model.sav', 'rb')     
+    scaler= joblib.load(f'{folder_dir}/models/scaler.save')
+    mfile = open(f'{folder_dir}/models/finalized_model.sav', 'rb')
     rf = pickle.load(mfile)
     X_norm= scaler.transform(X)
     y= rf.predict(X_norm)
@@ -24,10 +25,6 @@ def model(X):
         st.header("Risk level: 4 (High number of reports of child abuse)")
     else:
         st.header("Risk level: 5 (Alarming number of reports of child abuse)")
-    
-    
-
-    
     
 
 def preprocess(df):
@@ -84,7 +81,7 @@ def custom(data, homeless):
     for c,i in enumerate(data.area_name):
         data.loc[c,'Number of white males':'Number of other races females']=data.loc[c,'Number of white males':'Number of other races females']/homeless
     data.drop(labels=['area_name'], inplace= True, axis=1)
-    file = open('pages/CPI_homeless/models/target.pkl', 'rb')     
+    file = open(f'{folder_dir}/models/target.pkl', 'rb') 
     smooth = pickle.load(file)
     data['coc_enc']=data['coc'].map(smooth)
     data.drop(labels=['coc'], inplace= True, axis=1)
@@ -94,27 +91,48 @@ def custom(data, homeless):
     
 
 def historical(county, Year):
-    dfh= pd.read_csv('.\pages\CPI_homeless\{}.csv'.format(Year))
+    dfh= pd.read_csv(f'{folder_dir}/{Year}.csv')
     values= dfh.loc[dfh['area_name'] == county ]
     values.reset_index(drop= True, inplace= True)
     inp= preprocess(values)
     inp.drop(labels=['area_name', 'Fiscal Year', 'count'], inplace= True, axis=1)
-    file = open('pages/CPI_homeless/models/target.pkl', 'rb')     
+    file = open(f'{folder_dir}/models/target.pkl', 'rb')     
     smooth = pickle.load(file)
     inp['coc_enc']=inp['coc'].map(smooth)
     inp.drop(labels=['coc'], inplace= True, axis=1)
     X_test= inp.to_numpy()
     model(X_test)
-    
-    
-    
-    
-
-
 
 st.cache(suppress_st_warning=True)
 def predict():
-    state= ['Armstrong', 'Bailey', 'Briscoe', 'Carson', 'Castro', 'Childress', 'Cochran', 'Collingsworth', 'Crosby', 'Dallam', 'Deaf Smith', 'Dickens', 'Donley', 'Floyd', 'Garza', 'Gray', 'Hale', 'Hall', 'Hansford', 'Hartley', 'Hemphill', 'Hockley', 'Hutchinson', 'King', 'Lamb', 'Lipscomb', 'Lubbock', 'Lynn', 'Moore', 'Motley', 'Ochiltree', 'Oldham', 'Parmer', 'Potter', 'Randall', 'Sherman', 'Swisher', 'Terry', 'Wheeler', 'Yoakum', 'Archer', 'Baylor', 'Brown', 'Callahan', 'Clay', 'Coleman', 'Comanche', 'Cottle', 'Eastland', 'Fisher', 'Foard', 'Hardeman', 'Haskell', 'Jack', 'Jones', 'Kent', 'Knox', 'Mitchell', 'Montague', 'Nolan', 'Runnels', 'Scurry', 'Shackelford', 'Stephens', 'Stonewall', 'Taylor', 'Throckmorton', 'Wichita', 'Wilbarger', 'Young', 'Collin', 'Cooke', 'Dallas', 'Denton', 'Ellis', 'Erath', 'Fannin', 'Grayson', 'Hood', 'Hunt', 'Johnson', 'Kaufman', 'Navarro', 'Palo Pinto', 'Parker', 'Rockwall', 'Somervell', 'Tarrant', 'Wise', 'Anderson', 'Bowie', 'Camp', 'Cass', 'Cherokee', 'Delta', 'Franklin', 'Gregg', 'Harrison', 'Henderson', 'Hopkins', 'Lamar', 'Marion', 'Morris', 'Panola', 'Rains', 'Red River', 'Rusk', 'Smith', 'Titus', 'Upshur', 'Van Zandt', 'Wood', 'Angelina', 'Hardin', 'Houston', 'Jasper', 'Jefferson', 'Nacogdoches', 'Newton', 'Orange', 'Polk', 'Sabine', 'San Augustine', 'San Jacinto', 'Shelby', 'Trinity', 'Tyler', 'Austin', 'Brazoria', 'Chambers', 'Colorado', 'Fort Bend', 'Galveston', 'Harris', 'Liberty', 'Matagorda', 'Montgomery', 'Walker', 'Waller', 'Wharton', 'Bastrop', 'Bell', 'Blanco', 'Bosque', 'Brazos', 'Burleson', 'Burnet', 'Caldwell', 'Coryell', 'Falls', 'Fayette', 'Freestone', 'Grimes', 'Hamilton', 'Hays', 'Hill', 'Lampasas', 'Lee', 'Leon', 'Limestone', 'Llano', 'Madison', 'McLennan', 'Milam', 'Mills', 'Robertson', 'San Saba', 'Travis', 'Washington', 'Williamson', 'Atascosa', 'Bandera', 'Bexar', 'Calhoun', 'Comal', 'DeWitt', 'Dimmit', 'Edwards', 'Frio', 'Gillespie', 'Goliad', 'Gonzales', 'Guadalupe', 'Jackson', 'Karnes', 'Kendall', 'Kerr', 'Kinney', 'La Salle', 'Lavaca', 'Maverick', 'Medina', 'Real', 'Uvalde', 'Val Verde', 'Victoria', 'Wilson', 'Zavala', 'Andrews', 'Borden', 'Coke', 'Concho', 'Crane', 'Crockett', 'Dawson', 'Ector', 'Gaines', 'Glasscock', 'Howard', 'Irion', 'Kimble', 'Loving', 'Martin', 'Mason', 'McCulloch', 'Menard', 'Midland', 'Pecos', 'Reagan', 'Reeves', 'Schleicher', 'Sterling', 'Sutton', 'Terrell', 'Tom Green', 'Upton', 'Ward', 'Winkler', 'Brewster', 'Culberson', 'El Paso', 'Hudspeth', 'Jeff Davis', 'Presidio', 'Aransas', 'Bee', 'Brooks', 'Cameron', 'Duval', 'Hidalgo', 'Jim Hogg', 'Jim Wells', 'Kenedy', 'Kleberg', 'Live Oak', 'McMullen', 'Nueces', 'Refugio', 'San Patricio', 'Starr', 'Webb', 'Willacy', 'Zapata']
+    state= ['Armstrong', 'Bailey', 'Briscoe', 'Carson', 'Castro', 'Childress', 'Cochran', 'Collingsworth', 
+    'Crosby', 'Dallam', 'Deaf Smith', 'Dickens', 'Donley', 'Floyd', 'Garza', 'Gray', 'Hale', 'Hall',
+    'Hansford', 'Hartley', 'Hemphill', 'Hockley', 'Hutchinson', 'King', 'Lamb', 'Lipscomb', 'Lubbock',
+    'Lynn', 'Moore', 'Motley', 'Ochiltree', 'Oldham', 'Parmer', 'Potter', 'Randall', 'Sherman', 'Swisher',
+    'Terry', 'Wheeler', 'Yoakum', 'Archer', 'Baylor', 'Brown', 'Callahan', 'Clay', 'Coleman', 'Comanche',
+    'Cottle', 'Eastland', 'Fisher', 'Foard', 'Hardeman', 'Haskell', 'Jack', 'Jones', 'Kent', 'Knox', 
+    'Mitchell', 'Montague', 'Nolan', 'Runnels', 'Scurry', 'Shackelford', 'Stephens', 'Stonewall', 'Taylor',
+    'Throckmorton', 'Wichita', 'Wilbarger', 'Young', 'Collin', 'Cooke', 'Dallas', 'Denton', 'Ellis', 'Erath',
+    'Fannin', 'Grayson', 'Hood', 'Hunt', 'Johnson', 'Kaufman', 'Navarro', 'Palo Pinto', 'Parker', 'Rockwall',
+    'Somervell', 'Tarrant', 'Wise', 'Anderson', 'Bowie', 'Camp', 'Cass', 'Cherokee', 'Delta', 'Franklin',
+    'Gregg', 'Harrison', 'Henderson', 'Hopkins', 'Lamar', 'Marion', 'Morris', 'Panola', 'Rains', 'Red River',
+    'Rusk', 'Smith', 'Titus', 'Upshur', 'Van Zandt', 'Wood', 'Angelina', 'Hardin', 'Houston', 'Jasper', 
+    'Jefferson', 'Nacogdoches', 'Newton', 'Orange', 'Polk', 'Sabine', 'San Augustine', 'San Jacinto', 'Shelby', 
+    'Trinity', 'Tyler', 'Austin', 'Brazoria', 'Chambers', 'Colorado', 'Fort Bend', 'Galveston', 'Harris', 
+    'Liberty', 'Matagorda', 'Montgomery', 'Walker', 'Waller', 'Wharton', 'Bastrop', 'Bell', 'Blanco', 'Bosque',
+    'Brazos', 'Burleson', 'Burnet', 'Caldwell', 'Coryell', 'Falls', 'Fayette', 'Freestone', 'Grimes', 
+    'Hamilton', 'Hays', 'Hill', 'Lampasas', 'Lee', 'Leon', 'Limestone', 'Llano', 'Madison', 'McLennan',
+    'Milam', 'Mills', 'Robertson', 'San Saba', 'Travis', 'Washington', 'Williamson', 'Atascosa', 'Bandera',
+    'Bexar', 'Calhoun', 'Comal', 'DeWitt', 'Dimmit', 'Edwards', 'Frio', 'Gillespie', 'Goliad', 'Gonzales',
+    'Guadalupe', 'Jackson', 'Karnes', 'Kendall', 'Kerr', 'Kinney', 'La Salle', 'Lavaca', 'Maverick', 'Medina',
+    'Real', 'Uvalde', 'Val Verde', 'Victoria', 'Wilson', 'Zavala', 'Andrews', 'Borden', 'Coke', 'Concho',
+    'Crane', 'Crockett', 'Dawson', 'Ector', 'Gaines', 'Glasscock', 'Howard', 'Irion', 'Kimble', 'Loving',
+    'Martin', 'Mason', 'McCulloch', 'Menard', 'Midland', 'Pecos', 'Reagan', 'Reeves', 'Schleicher', 'Sterling',
+    'Sutton', 'Terrell', 'Tom Green', 'Upton', 'Ward', 'Winkler', 'Brewster', 'Culberson', 'El Paso', 
+    'Hudspeth', 'Jeff Davis', 'Presidio', 'Aransas', 'Bee', 'Brooks', 'Cameron', 'Duval', 'Hidalgo', 
+    'Jim Hogg', 'Jim Wells', 'Kenedy', 'Kleberg', 'Live Oak', 'McMullen', 'Nueces', 'Refugio', 'San Patricio',
+    'Starr', 'Webb', 'Willacy', 'Zapata']
+    
     st.title('Likelihood of Child Abuse in Homeless Population in Texas')
     st.write("")
     st.subheader("This application allows social services to see which counties in Texas are more likely to have higher cases of child abuse in its homeless population so that efforts can be focused so as to mitigate the likelihood to maximum")
