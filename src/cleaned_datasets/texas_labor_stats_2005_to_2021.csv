@@ -1,4 +1,4 @@
-,year,period,area,adjustment,employment,civilian_labor_force,unemployment,unemployment_rate
+index,year,period,area,adjustment,employment,civilian_labor_force,unemployment,unemployment_rate
 0,2005,March,Texas,Not Adjusted,10457456,11066337,608881,5.5
 1,2005,March,Texas,Adjusted,10502785,11125846,623061,5.6
 2,2005,June,Texas,Not Adjusted,10557049,11181612,624563,5.6
